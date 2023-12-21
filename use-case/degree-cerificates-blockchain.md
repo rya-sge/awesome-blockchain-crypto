@@ -25,5 +25,4 @@
 | [MANCOSA offers forgery-proof blockchain certificates](https://www.mancosa.co.za/news/mancosa-offers-forgery-proof-blockchain-certificates/) | -                                                            | 03/2021 | Article | Mancosa / press release    |
 | [Digital Diploma debuts at MIT. Using Bitcoin's blockchain technology](https://news.mit.edu/2017/mit-debuts-secure-digital-diploma-using-bitcoin-blockchain-technology-1017) | Digital Diploma debuts at MIT. Using Bitcoin's blockchain technology, the Institute has become one of the first universities to issue recipient-owned virtual credentials. | 10/2017 | Article | MIT news, Elizabeth Durant |
 |                                                              |                                                              |         |         |                            |
-|                                                              |                                                              |         |         |                            |
 

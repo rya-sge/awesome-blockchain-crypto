@@ -1,22 +1,24 @@
 # Lido
 
+[https://lido.fi/](https://lido.fi/)
+
 ## Official documentation
 
-| Title with link                                              | Description | Date    | Support | Author                                                       |
+| Title                                                        | Description | Date    | Support | Author                                                       |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ------------------------------------------------------------ |
-| [Lido on Polygon — Largest liquid staking protocol-          |             | 11/2021 | Article | Jakov / Shard Labs                                           |
+| [Lido on Polygon — Largest liquid staking protocol](https://shardlabs.io/lido-on-polygon/) |             | 11/2021 | Article | Jakov / Shard Labs                                           |
 | [A Guide to Lido Staked ETH: stETH](https://medium.com/stakin/a-guide-to-lido-staked-eth-steth-cd5a7bbb0ef5) |             | 12/2022 | Article | [Gisele Schout](https://medium.com/@gisele_schout?source=post_page-----cd5a7bbb0ef5--------------------------------) |
 |                                                              |             |         |         |                                                              |
 |                                                              |             |         |         |                                                              |
 
 ## General
 
-| Title with link | Description | Date | Support | Author |
-| --------------- | ----------- | ---- | ------- | ------ |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
+| Title | Description | Date | Support | Author |
+| ----- | ----------- | ---- | ------- | ------ |
+|       |             |      |         |        |
+|       |             |      |         |        |
+|       |             |      |         |        |
+|       |             |      |         |        |
 
 # Security
 

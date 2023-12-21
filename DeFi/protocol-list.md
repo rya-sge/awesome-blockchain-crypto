@@ -9,6 +9,7 @@ List of protocols
 | SushiSwap          | Automated Market Maker (AMM) and lending protocol |            |             |               |         |           |
 | UniSwap            | decentralized exchange                            |            |             |               |         |           |
 | Lido               | Staking                                           |            |             |               |         |           |
+|                    |                                                   |            |             |               |         |           |
 | , Numeraire i ?    |                                                   |            |             |               |         |           |
 | **Project Serum**? |                                                   |            |             |               |         |           |
 | **Ren Protocol**   |                                                   |            |             |               |         |           |

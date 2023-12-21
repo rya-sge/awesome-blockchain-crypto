@@ -2,6 +2,11 @@
 
 [eip-721](https://eips.ethereum.org/EIPS/eip-721)
 
+## Introduction
+
+- Standard for unique, non-divisible tokens on Ethereum
+- Ideal for representing individual assets or collectibles
+
 ## General
 
 | Title with link                                              | Description | Date    | Support       | Author                               |

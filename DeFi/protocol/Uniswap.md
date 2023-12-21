@@ -39,10 +39,13 @@ Documentation: [https://docs.uniswapfoundation.org/](https://docs.uniswapfoundat
 
 #### Concept
 
-| Title                                                        | Description | Date    | Support | Author       |
-| ------------------------------------------------------------ | ----------- | ------- | ------- | ------------ |
-| [Concentrated Liquidity](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity#ticks) | -           |         | Article | Uniswap Labs |
-| [Uniswap v3 TWAP Oracles in Proof of Stake](https://blog.uniswap.org/uniswap-v3-oracles) | -           | 10/2022 | Article | Uniswap Labs |
+| Title                                                        | Description | Date    | Support | Author        |
+| ------------------------------------------------------------ | ----------- | ------- | ------- | ------------- |
+| [Concentrated Liquidity](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity#ticks) | -           |         | Article | Uniswap Labs  |
+| [Uniswap v3 TWAP Oracles in Proof of Stake](https://blog.uniswap.org/uniswap-v3-oracles) | -           | 10/2022 | Article | Uniswap Labs  |
+| [UniswapV3:  The Math Of Providing Liquidity.](https://twitter.com/Bount3yHunt3r/status/1736909028788203627) | -           | 12/2023 | Tweet   | Bount3yHunt3r |
+| [UniswapV3:  Relationship between Tick and Price.](https://twitter.com/Bount3yHunt3r/status/1734013066453336324) | -           | 12/2023 | Tweet   | Bount3yHunt3r |
+| [Concentrated Liquidity Deep Dive!](https://twitter.com/Bount3yHunt3r/status/1730941847952859285) | -           | 12/2023 | Tweet   | Bount3yHunt3r |
 
 
 

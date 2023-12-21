@@ -4,7 +4,7 @@ Resources related to proxy
 
 ## General
 
-| Title with link                                              | Date               | Support | Author            |
+| Title                                                        | Date               | Support | Author            |
 | ------------------------------------------------------------ | ------------------ | ------- | ----------------- |
 | [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | September 12, 2023 | Article | banteg            |
 | [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | September 3, 2023  | Article | dimo_audit        |
@@ -20,11 +20,10 @@ Resources related to proxy
 
 ## Security
 
-| Title with link                                              | Date              | Support | Author                                                    |
+| Title                                                        | Date              | Support | Author                                                    |
 | ------------------------------------------------------------ | ----------------- | ------- | --------------------------------------------------------- |
 | [Improve security for Initializer.sol](https://banteg.xyz/posts/minimal-proxies/) | March 24, 2023    | Article | [0xPhaze](https://github.com/0xPhaze)                     |
 | [Auditor’s Notes: Initializing, Proxy, Oracles & Multi-Chain](https://blog.pessimistic.io/auditors-notes-initializing-proxy-oracles-multi-chain-e314ec0694b2) | Aug 25, 2023      | Article | [Officer's Notes](https://officercia.medium.com/)         |
-| [Wormhole Uninitialized Proxy Bugfix Review](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) | May 20, 2022      | Article | [Immunefi](https://medium.com/@immunefi)                  |
 | [Upgradeable Proxy Contract Security Best Practices](https://www.certik.com/resources/blog/FnfYrOCsy3MG9s9gixfbJ-upgradeable-proxy-contract-security-best-practices) | November 18, 2022 | Article | Certik                                                    |
 | [blog.openzeppelin.com/proxy-patterns](https://blog.openzeppelin.com/proxy-patterns) | April 19, 2018    | Article | OpenZeppelin                                              |
 | [Why you should never approve proxy smart contracts for token spending?](https://medium.com/easyblock-blockchain-technology-blog/why-you-should-never-approve-proxy-smart-contracts-for-token-spending-3797e542113b) | Nov 15, 2022      | Article | [Doğu Deniz Uğur](https://medium.com/@dogudenizugur)      |
@@ -32,22 +31,24 @@ Resources related to proxy
 | [twitter.com-Bug Challenge #3](https://twitter.com/bytes032/status/1611346854070861824) | January 06, 2022  | Article | bytes032                                                  |
 |                                                              |                   |         |                                                           |
 |                                                              |                   |         |                                                           |
-|                                                              |                   |         |                                                           |
-|                                                              |                   |         |                                                           |
-|                                                              |                   |         |                                                           |
 
 
+
+## UUPS
+
+| Title                                                        | Date         | Support         | Author                                   |
+| ------------------------------------------------------------ | ------------ | --------------- | ---------------------------------------- |
+| [Report for KyberSwap](https://audits.sherlock.xyz/contests/103/report) | <2023 ?      | Sherlock report | MohammedRizwan                           |
+| [Wormhole Uninitialized Proxy Bugfix Review](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) | May 20, 2022 | Article         | [Immunefi](https://medium.com/@immunefi) |
 
 ## Diamond proxy pattern
 
-
-
-| Title with link                                              | Date | Support | Author |
-| ------------------------------------------------------------ | ---- | ------- | ------ |
-| https://medium.com/@MarqyMarq/how-to-implement-the-diamond-standard-69e87dae44e6 |      |         |        |
-| https://github.com/KevinH2810/ERC20-Diamond-Proxy/tree/main  |      |         |        |
-|                                                              |      |         |        |
-|                                                              |      |         |        |
+| Title                                                        | Date    | Support        | Author     |
+| ------------------------------------------------------------ | ------- | -------------- | ---------- |
+| [How To Implement The Diamond Standard](https://medium.com/@MarqyMarq/how-to-implement-the-diamond-standard-69e87dae44e6) | 02/2023 | Article        | Marq       |
+| [ERC20-Diamond-Proxy](https://github.com/KevinH2810/ERC20-Diamond-Proxy) | 2023    | GitHub project | KevinH2810 |
+|                                                              |         |                |            |
+|                                                              |         |                |            |
 
 ## Interview question
 

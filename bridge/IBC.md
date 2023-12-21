@@ -23,7 +23,7 @@ Website: [https://www.ibcprotocol.dev](https://www.ibcprotocol.dev)
 
 | Title                                                        | Description | Date    | Support | Author                                          |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ----------------------------------------------- |
-| BC Gets Ready to Land on Ethereum [Cosmoverse 2023]](https://medium.com/@tokifinance/cosmoverse-2023-a75412bcbf86) | -           | 10/2023 | Article | toki finance                                    |
+| BC Gets Ready to Land on Ethereum [Cosmoverse 2023](https://medium.com/@tokifinance/cosmoverse-2023-a75412bcbf86) | -           | 10/2023 | Article | toki finance                                    |
 | [[Bringing IBC to Ethereum using ZK-Snarks](https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks/13634)](https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks/13634/12) | -           | 09/2022 | Post    | [garvitgoel](https://ethresear.ch/u/garvitgoel) |
 |                                                              |             |         |         |                                                 |
 

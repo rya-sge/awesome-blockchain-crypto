@@ -1,6 +1,6 @@
-# Chainlink CCIP
+# Cosmos
 
-Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
+Website: [https://cosmos.network](https://cosmos.network)
 
 ## Official resources
 
@@ -21,11 +21,11 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 
 ## Specific
 
-| Title | Description | Date | Support | Author                                  |
-| ----- | ----------- | ---- | ------- | --------------------------------------- |
-|       |             |      |         | https://research.lido.fi/u/CLL_Michael) |
-|       |             |      |         |                                         |
-|       |             |      |         |                                         |
+| Title | Description | Date | Support | Author |
+| ----- | ----------- | ---- | ------- | ------ |
+|       |             |      |         |        |
+|       |             |      |         |        |
+|       |             |      |         |        |
 
 
 

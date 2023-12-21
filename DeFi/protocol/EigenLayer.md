@@ -10,6 +10,7 @@
 | [EigenLayer: A Restaking Primitive](https://consensys.io/blog/eigenlayer-a-restaking-primitive) | .                                                            | 11/2022 | Article         | David Shuttleworth / ConSensys                               |
 | [Future of Shared Security with Babylon & Eigenlayer](https://www.scb10x.com/en/blog/shared-security-blockchain) | article provides information on this idea from REDeFiNE TOMORROW. [Video](https://www.youtube.com/watch?v=LM4OQdW3oBA&feature=youtu.be) | 09/2023 | Article + Video | SCBIox, Babylon & Eigenlayer                                 |
 | [Restaking 101: A Primer on EigenLayer](https://medium.com/@benhwx/restaking-101-a-primer-on-eigenlayer-ad9bc69875bc) | discuss core concepts in restaking, a new primitive introduced by EigenLayer | 06/2023 | Article         | [Ben Wee](https://medium.com/@benhwx?source=post_page-----ad9bc69875bc--------------------------------) |
+| [Twitter thread](https://twitter.com/13yearoldvc/status/1737168422235222255?t=EBlvfJvU4GvnLfqZxB3POQ&s=19) |                                                              | 12/2023 | Tweet           | 13yearoldvc                                                  |
 
 ## Lesson
 

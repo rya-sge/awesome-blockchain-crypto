@@ -1,6 +1,6 @@
 # Chainlink CCIP
 
-Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
+Website: [https://chain.link/cross-chain](https://chain.link/cross-chain) 
 
 ## Official resources
 
@@ -16,7 +16,7 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 | Title                                                        | Description | Date    | Support | Author                                                       |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ------------------------------------------------------------ |
 | [CIP (Cross-Chain Interoperability Protocol) Guide](https://medium.com/chainlink-community/ccip-cross-chain-interoperability-protocol-guide-%EF%B8%8F-24e3654bb162) | -           | 07/2023 | Article | [Av. Elif Hilal Umucu](https://medium.com/@Elifhilalumucu?source=post_page-----24e3654bb162--------------------------------) |
-|                                                              |             |         |         |                                                              |
+| [Layer 0 Wars: LayerZero vs Chainlink's CCIP](https://www.alphaplease.com/p/chainlink-ccip-layerzero-wars-crypto-web3) | -           | 03/2022 | Article | picklealphapls                                               |
 |                                                              |             |         |         |                                                              |
 
 ## Specific
@@ -31,21 +31,18 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 
 ## Projet
 
-| Title                                                        | Description   | Date | Support | Author    |
-| ------------------------------------------------------------ | ------------- | ---- | ------- | --------- |
-| [Build Cross-Chain dApps Using CCIP ](https://www.youtube.com/watch?v=Dvna-eEQEsQ) | Constellation |      | Video   | Chainlink |
-|                                                              |               |      |         |           |
-|                                                              |               |      |         |           |
-|                                                              |               |      |         |           |
-
-
+-
 
 ## Tutorial
 
-| Title                                                        | Description                                                  | Date    | Support | Author                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------- |
-| [swift-chainlink](https://polygon.technology/blog/why-hsbc-is-building-a-decentralized-identity-solution-with-polygon-id) | "Chainlink, a leading Web3 services platform, will provide connectivity across public and private blockchains for these experiments." | 06/2023 | Article | Swift                           |
-| [Australian Bank ANZ leveraging Chainlink’s CCIP for cross-chain operability](https://blockworks.co/news/chainlink-anz-ccip) | -                                                            | 09/2023 | Article | Blockworks / SEBASTIAN SINCLAIR |
+| Title                                                        | Description                                                  | Date    | Support        | Author                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | -------------- | ------------------------ |
+| [Build Cross-Chain dApps Using CCIP ](https://www.youtube.com/watch?v=Dvna-eEQEsQ) | Constellation                                                | 11/2023 | Video          | Andrej Rakic / Chainlink |
+| [CCIP Tic Tac Toe](https://github.com/smartcontractkit/ccip-tic-tac-toe) | demonstrates how to build a gaming dApp that operates across multiple blockchain networks. | 2023    | Github project | Chainlink team           |
+| [Cross-chain Name Service](https://github.com/smartcontractkit/ccip-cross-chain-name-service) | educational example of how to create a minimal cross-chain name service using Chainlink CCIP. | 2023    | Github project | Chainlink team           |
+| [DeFi Lending](https://github.com/smartcontractkit/ccip-defi-lending) | shows how a cross-chain lending application can work using CCIP. | 2023    | Github project | Chainlink team           |
+| [DeFi liquidation protection](https://github.com/smartcontractkit/ccip-liquidation-protector) | shows how a DeFi dApp can use CCIP to prevent liquidation when lending assets across multiple blockchain networks. | 2023    | Github project | Chainlink team           |
+| [Cross Chain NFT](https://github.com/smartcontractkit/ccip-cross-chain-nft) | shows you how to mint an NFT on one blockchain from another blockchain. | 2023    | Github project | Chainlink team           |
 
 ## News
 
@@ -53,6 +50,4 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------- |
 | [swift-chainlink](https://polygon.technology/blog/why-hsbc-is-building-a-decentralized-identity-solution-with-polygon-id) | "Chainlink, a leading Web3 services platform, will provide connectivity across public and private blockchains for these experiments." | 06/2023 | Article | Swift                           |
 | [Australian Bank ANZ leveraging Chainlink’s CCIP for cross-chain operability](https://blockworks.co/news/chainlink-anz-ccip) | -                                                            | 09/2023 | Article | Blockworks / SEBASTIAN SINCLAIR |
-|                                                              |                                                              |         |         |                                 |
-|                                                              |                                                              |         |         |                                 |
 

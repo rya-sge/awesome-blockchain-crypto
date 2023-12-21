@@ -7,7 +7,6 @@
 | [vitalik.eth/Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html) | 10/31/2023 | Article | Vitalik            |
 | [Bridge Assessment Report](https://uniswap.notion.site/Bridge-Assessment-Report-0c8477afadce425abac9c0bd175ca382) | 2023       | Report  | Uniswap Foundation |
 |                                                              |            |         |                    |
-|                                                              |            |         |                    |
 
 ## Product
 

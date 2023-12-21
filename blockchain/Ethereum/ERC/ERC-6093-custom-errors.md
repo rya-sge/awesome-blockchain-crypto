@@ -1,4 +1,4 @@
-# ERC-6093-custom-errors
+# ERC-6093 Custom errors
 
 https://eips.ethereum.org/EIPS/eip-6093
 
