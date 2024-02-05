@@ -4,17 +4,17 @@ Resources related to proxy
 
 ## General
 
-| Title                                                        | Date               | Support | Author            |
-| ------------------------------------------------------------ | ------------------ | ------- | ----------------- |
-| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | September 12, 2023 | Article | banteg            |
-| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | September 3, 2023  | Article | dimo_audit        |
-| [The Diamond Proxy Pattern Explained:  What You Need To Know (Advanced Proxy Pattern](https://www.youtube.com/watch?v=IoWe6VIctJQ) | January 19, 2023   | Video   | Jesper Kristensen |
-| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) | -                  | Article | Remix             |
-| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) | March 22, 2022     | Article | Naveen            |
-|                                                              |                    |         |                   |
-|                                                              |                    |         |                   |
-|                                                              |                    |         |                   |
-|                                                              |                    |         |                   |
+| Title                                                        | Date               | Support                 | Author                                   |
+| ------------------------------------------------------------ | ------------------ | ----------------------- | ---------------------------------------- |
+| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | September 12, 2023 | Article                 | banteg                                   |
+| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | September 3, 2023  | Article                 | dimo_audit                               |
+| [The Diamond Proxy Pattern Explained:  What You Need To Know (Advanced Proxy Pattern](https://www.youtube.com/watch?v=IoWe6VIctJQ) | January 19, 2023   | Video                   | Jesper Kristensen                        |
+| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) | -                  | Article                 | Remix                                    |
+| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) | March 22, 2022     | Article                 | Naveen                                   |
+| [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405.pdf) | ~2020              | Research  paper (arxiv) | Sajad Meisami, William Edward Bodell III |
+| [yAcademy Proxies Research](https://proxies.yacademy.dev)    | ?                  | Several articles        | yAcademy                                 |
+|                                                              |                    |                         |                                          |
+|                                                              |                    |                         |                                          |
 
 
 
@@ -49,6 +49,15 @@ Resources related to proxy
 | [ERC20-Diamond-Proxy](https://github.com/KevinH2810/ERC20-Diamond-Proxy) | 2023    | GitHub project | KevinH2810 |
 |                                                              |         |                |            |
 |                                                              |         |                |            |
+
+## Beacon
+
+| Title                                                        | Date    | Support                                                      | Author        |
+| ------------------------------------------------------------ | ------- | ------------------------------------------------------------ | ------------- |
+| [Beacon-Proxy-Implementation-Hardhat-](https://github.com/ishinu/Beacon-Proxy-Implementation-Hardhat-) | 2022    | GitHub project<br />[Gist](https://gist.github.com/yurenju/ef4c901a48c523ac74bf942b50ab5108) | ishinu        |
+| [Astaria Beacon Proxy issue](https://twitter.com/apoorvlathey/status/1671308180545241088) | 06/2023 | Twitter thread                                               | Apoorv Lathey |
+|                                                              |         |                                                              |               |
+|                                                              |         |                                                              |               |
 
 ## Interview question
 
