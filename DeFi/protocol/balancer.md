@@ -11,31 +11,23 @@
 
 ## General
 
-| Title                                                        | Description | Date    | Support | Author  |
-| ------------------------------------------------------------ | ----------- | ------- | ------- | ------- |
-| [Balancer schema](https://twitter.com/Smacaud1/status/1729290003954446451) | -           | 11/2023 | Tweet   | Smacaud |
-|                                                              |             |         |         |         |
-|                                                              |             |         |         |         |
-|                                                              |             |         |         |         |
+| Title                                                        | Description                 | Date    | Support | Author                                                       |
+| ------------------------------------------------------------ | --------------------------- | ------- | ------- | ------------------------------------------------------------ |
+| [Balancer schema](https://twitter.com/Smacaud1/status/1729290003954446451) | -                           | 11/2023 | Tweet   | Smacaud                                                      |
+| [Back to the Basics: Uniswap, Balancer, Curve](https://medium.com/@kinaumov/back-to-the-basics-uniswap-balancer-curve-e930c3ad9046) | Uniswap, Balancer and Curve | 06/2022 | Article | [Kirill Naumov](https://medium.com/@kinaumov?source=post_page-----e930c3ad9046--------------------------------) |
+|                                                              |                             |         |         |                                                              |
+|                                                              |                             |         |         |                                                              |
 
 
 
 ## Specific topic
 
-### Governance
 
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
 
-### Others
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
+| Title                                                        | Description                                                  | Date    | Support | Author        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------- |
+| [Balancer Leads the Yield Bearing Token Revolution](https://medium.com/balancer-protocol/balancer-leads-the-yield-bearing-token-revolution-ef2f08241093) | Learn how users can earn further yields on staked ETH, benefiting both projects and the Protocol. | 08/2022 | Article | Balancer Labs |
+|                                                              |                                                              |         |         |               |
 
 Project
 

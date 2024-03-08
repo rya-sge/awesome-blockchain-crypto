@@ -1,13 +1,15 @@
 # Stablecoin
 
-| Name                    | Issuer                 | Blockchain |
-| ----------------------- | ---------------------- | ---------- |
-|                         |                        |            |
-| CoinVertible Stablecoin | Societe Generale–FORGE |            |
-| DAI                     | MakerDao               |            |
-|                         |                        |            |
-|                         |                        |            |
-|                         |                        |            |
+| Name                                                         | Type                                              | Issuer                 | Blockchain |
+| ------------------------------------------------------------ | ------------------------------------------------- | ---------------------- | ---------- |
+|                                                              |                                                   |                        |            |
+| [CoinVertible Stablecoin](https://www.sgforge.com/product/coinvertible/) |                                                   | Societe Generale–FORGE |            |
+| [DAI](https://makerdao.com)                                  | CDP<br />crypto-collateralized stablecoin         | MakerDao               |            |
+| [Frax stablecoin](https://frax.finance/)                     | Crypto collateralized stablecoin (+ algorithmic?) |                        |            |
+| [Tether](https://tether.to/en/)                              | Fiat-backed                                       |                        |            |
+| AAve GHO                                                     | CDP                                               |                        |            |
+| USDC                                                         | Fiat-backed                                       |                        |            |
+| BUSD                                                         |                                                   |                        |            |
 
 
 

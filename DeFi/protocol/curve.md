@@ -2,14 +2,20 @@
 
 ## General
 
-| Title with link                             | Description | Date    | Support | Author                                          |
+| Title                                                        | Description                 | Date    | Support | Author                                                       |
+| ------------------------------------------------------------ | --------------------------- | ------- | ------- | ------------------------------------------------------------ |
+| [Back to the Basics: Uniswap, Balancer, Curve](https://medium.com/@kinaumov/back-to-the-basics-uniswap-balancer-curve-e930c3ad9046) | Uniswap, Balancer and Curve | 06/2022 | Article | [Kirill Naumov](https://medium.com/@kinaumov?source=post_page-----e930c3ad9046--------------------------------) |
+|                                                              |                             |         |         |                                                              |
+|                                                              |                             |         |         |                                                              |
+
+## Specific
+
+| Title                                       | Description | Date    | Support | Author                                          |
 | ------------------------------------------- | ----------- | ------- | ------- | ----------------------------------------------- |
 | [Curve Wars](https://rekt.news/curve-wars/) | Curve Wars  | 07/2021 | Article | [Julien Bouteloup](https://twitter.com/bneiluj) |
 |                                             |             |         |         |                                                 |
 |                                             |             |         |         |                                                 |
 |                                             |             |         |         |                                                 |
-
-
 
 ## Security
 

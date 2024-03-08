@@ -2,10 +2,11 @@
 
 ## General
 
-| Title                                                        | Description | Date    | Support | Author  |
-| ------------------------------------------------------------ | ----------- | ------- | ------- | ------- |
-| [What is a TWAP oracle](https://hackmd.io/@HHK-ETH/what-is-twap-oracle) |             | 10/2021 | Article | HHK-ETH |
-|                                                              |             |         |         |         |
+| Title                                                        | Description        | Date    | Support | Author      |
+| ------------------------------------------------------------ | ------------------ | ------- | ------- | ----------- |
+| [What is a TWAP oracle](https://hackmd.io/@HHK-ETH/what-is-twap-oracle) |                    | 10/2021 | Article | HHK-ETH     |
+| [Why TWAP Oracles Are Key to DeFi Security](https://www.halborn.com/blog/post/why-twap-oracles-are-key-to-defi-security) | TWAP VS VWAP       | 01/2023 | Article | Rob Behnke  |
+| [What are TWAP Oracles, and How are they different from Uniswap?](https://www.immunebytes.com/blog/what-are-twap-oracles-and-how-are-they-different-from-uniswap/) | TWAP on Uniswap v3 | 07/2023 | Article | Immunebytes |
 
 
 

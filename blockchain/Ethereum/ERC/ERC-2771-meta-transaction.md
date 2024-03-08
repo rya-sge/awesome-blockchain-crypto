@@ -19,5 +19,5 @@
 | ------------------------------------------------------------ | ----------- | ------- | ------- | -------------------------------------- |
 | [Address Spoofing Attack: The Combination of ERC2771 and Multicall is a Bomb](https://blog.verichains.io/p/address-spoofing-attack-the-combination) | -           | 12/2023 |         | [Th13vn](https://substack.com/@th13vn) |
 | [The Critical Thirdweb Vulnerability](https://dedaub.com/blog/critical-thirdweb-vulnerability) | -           | 12/2023 | Article | Neville Grech / Dedaub                 |
-| [Unveiling the ERC-2771 Context and Multicall Vulnerability](https://blog.solidityscan.com/unveiling-the-erc-2771context-and-multicall-vulnerability-f96ffa5b499f) |             | 12/2023 | Article | Shashank / SolidityScan                |
+| [Unveiling the ERC-2771 Context and Multicall Vulnerability](https://blog.solidityscan.com/unveiling-the-erc-2771context-and-multicall-vulnerability-f96ffa5b499f) | -           | 12/2023 | Article | Shashank / SolidityScan                |
 |                                                              |             |         |         |                                        |

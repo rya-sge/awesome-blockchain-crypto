@@ -4,12 +4,11 @@
 
 ## General
 
-| Title                                                        | Description | Date    | Support | Author        |
-| ------------------------------------------------------------ | ----------- | ------- | ------- | ------------- |
-| [A Novel Defense Against ERC4626 Inflation Attacks](https://blog.openzeppelin.com/a-novel-defense-against-erc4626-inflation-attacks) |             | 08/2023 | Article | Openzeppelin  |
-| [https://www.linkedin.com/posts/vlad-yaroshuk-103b15256_logic-activity-7126104614256451584-T6SU/](https://www.linkedin.com/posts/vlad-yaroshuk-103b15256_logic-activity-7126104614256451584-T6SU/) |             | 11/2023 | Article | Vlad Yaroshuk |
-|                                                              |             |         |         |               |
-|                                                              |             |         |         |               |
+| Title                                                        | Description | Date    | Support | Author                          |
+| ------------------------------------------------------------ | ----------- | ------- | ------- | ------------------------------- |
+| [A Novel Defense Against ERC4626 Inflation Attacks](https://blog.openzeppelin.com/a-novel-defense-against-erc4626-inflation-attacks) |             | 08/2023 | Article | Openzeppelin                    |
+| [Overview of the Inflation Attack](https://mixbytes.io/blog/overview-of-the-inflation-attack) |             | <2024   | Article | Konstantin Nekrasov  / MixBytes |
+|                                                              |             |         |         |                                 |
 
 
 

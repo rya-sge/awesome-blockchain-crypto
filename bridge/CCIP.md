@@ -4,12 +4,14 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 
 ## Official resources
 
-| Title                                                        | Description                                                  | Date    | Support | Author                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
-| [Ben Chan: Exploring the Cross-Chain Interoperability Protocol (CCIP)](https://www.youtube.com/watch?v=HhK6maZxX68&t=687s) | -                                                            | 08/2021 | Video   | Ben Chan / Chainlink                                         |
-| [5 Ways To Build Cross-Chain Applications With CCIP](https://blog.chain.link/how-to-use-ccip/) | -                                                            | 07/2023 | Article | Chainlink / [Harry Papacharissiou](https://blog.chain.link/author/harry-papacharissiou/) |
-| [CCIP Best Practices](https://docs.chain.link/ccip/best-practices#overview) | -                                                            | 2023    | Article | Chainlink                                                    |
-| [CCIP Masterclass \| Module #1: Mastering Cross-Chain Development With Chainlink CCIP](https://www.youtube.com/watch?v=Q18mJ98Ly4Q&t=2281s) | Learn about Chainlink Cross-Chain Interoperability Protocol (CCIP), understand why it's the industry's most secure, reliable, and easy-to-use cross-chain messaging protocol, and explore how it enables trust-minimized cross-chain applications. | 08/2023 | Video   | Chainlink                                                    |
+| Title                                                        | Description                                                  | Date    | Support  | Author                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | -------- | ------------------------------------------------------------ |
+| [Ben Chan: Exploring the Cross-Chain Interoperability Protocol (CCIP)](https://www.youtube.com/watch?v=HhK6maZxX68&t=687s) | -                                                            | 08/2021 | Video    | Ben Chan / Chainlink                                         |
+| [5 Ways To Build Cross-Chain Applications With CCIP](https://blog.chain.link/how-to-use-ccip/) | -                                                            | 07/2023 | Article  | Chainlink / [Harry Papacharissiou](https://blog.chain.link/author/harry-papacharissiou/) |
+| [CCIP Best Practices](https://docs.chain.link/ccip/best-practices#overview) | -                                                            | 2023    | Article  | Chainlink                                                    |
+| [CCIP Masterclass \| Module #1: Mastering Cross-Chain Development With Chainlink CCIP](https://www.youtube.com/watch?v=Q18mJ98Ly4Q&t=2281s) | Learn about Chainlink Cross-Chain Interoperability Protocol (CCIP), understand why it's the industry's most secure, reliable, and easy-to-use cross-chain messaging protocol, and explore how it enables trust-minimized cross-chain applications. | 08/2023 | Video    | Chainlink                                                    |
+| [Chainlink CCIP](https://andrej-rakic.gitbook.io/chainlink-ccip/getting-started/chainlink-ccip) | CCIP masterclass                                             | 2023    | Gitbook  | andrej-rakic                                                 |
+| [Transfer Tokens with Data - Defensive Example](https://docs.chain.link/ccip/tutorials/programmable-token-transfers-defensive#overview) | It uses Chainlink CCIP to transfer tokens and arbitrary data between  smart contracts on different blockchains, and focuses on defensive  coding in the receiver contract. | 2024    | Tutorial | Chainlink Labs                                               |
 
 ## General
 
