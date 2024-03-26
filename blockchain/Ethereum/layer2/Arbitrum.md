@@ -4,12 +4,12 @@ Website: [https://arbitrum.io](https://arbitrum.io)
 
 ## Official documentation
 
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
+- [docs.arbitrum.io - Inside Arbitrum Nitro](https://docs.arbitrum.io/inside-arbitrum-nitro/)
+- [docs.arbitrum.io - challenge-manager](https://docs.arbitrum.io/proving/challenge-manager)
+- [State of progressive decentralization](https://docs.arbitrum.foundation/state-of-progressive-decentralization)
+- [docs.arbitrum.io/assertion-tree](https://docs.arbitrum.io/assertion-tree)
+- [docs.arbitrum.io/tx-lifecycle](https://docs.arbitrum.io/tx-lifecycle)
+- [A gentle introduction: Orbit chains](https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction)
 
 ## General
 
@@ -21,15 +21,6 @@ Website: [https://arbitrum.io](https://arbitrum.io)
 | [Arbitrum and the Dawn of a New Era: Navigating Ethereum’s Cancun Upgrade and the Future of $ARB](https://medium.com/@BTXResearch/arbitrum-and-the-dawn-of-a-new-era-navigating-ethereums-cancun-upgrade-and-the-future-of-arb-9f9411f3f050) | -           | 07/2023 | Article   | BTX Research             |
 | [Former Arbitrum technical ambassador explains Arbitrum’s component structure (Part 1)](https://www.coinlive.com/news/former-arbitrum-technical-ambassador-explains-arbitrum-s-component-structure-part-1) | -           | 12/2023 | Article   | InseFinance              |
 | [Crypto CEO Says That Competing With Ethereum Is A Bad Idea](https://www.forbes.com/sites/stevenehrlich/2023/06/30/crypto-ceo-says-that-competing-with-ethereum-is-a-bad-idea/) | -           | 06/2023 | Interview | Forbes, Steven Goldfeder |
-
-## Projet
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
 
 
 

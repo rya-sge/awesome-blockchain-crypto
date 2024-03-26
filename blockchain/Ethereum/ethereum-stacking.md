@@ -4,11 +4,23 @@
 
 [TOC]
 
+## General
+
+## Official documentation
+
+[https://eth2book.info/capella/](https://eth2book.info/capella/)
+
+| Title                                                        | Description                                              | Date   | Support      | Author              |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ------ | ------------ | ------------------- |
+| [eth2book.info - Signature BLS](https://eth2book.info/capella/part2/building_blocks/signatures/) |                                                          | ?      | Article /Doc | Ben Edgington       |
+| [More on slashing risks](https://launchpad.ethereum.org/en/faq) |                                                          |        | Article /Doc | Ethereum foundation |
+| [docs.google.com/spreadsheets - eth2calculator](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=842896204) | Old spreadsheets with several information for validators | 2023 ? | Article /Doc | Ethereum foundation |
+| [The Ethereum consensus layer specification](https://github.com/ethereum/consensus-specs) | Ethereum proof-of-stake specifications                   |        | Article /Doc | Ethereum foundation |
+|                                                              |                                                          |        |              |                     |
+
 
 
 ## General
-
-### Article
 
 | Title                                                        | Description                                                  | Date    | Support | Author                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ----------------------------- |
@@ -17,76 +29,4 @@
 | [Your Ultimate Guide to ETH Staking Withdrawals](https://consensys.io/shanghai-capella-upgrade) | All you need to know about the Shanghai/Capella upgrade, and what it means for stakers and the web3 ecosystem. | 03/2023 | Article | Consensys                     |
 | [A deep-dive into Eth-staking-smith](https://chorus.one/articles/a-deep-dive-into-eth-staking-smith#:~:text=Ethereum%20Staking%20Keys&text=These%20keys%20are%20composed%20of,for%20Boneh%E2%80%93Lynn%E2%80%93Shacham) |                                                              | 01/2023 | Article | Jennifer Parak, Maksym Kulish |
 |                                                              |                                                              |         |         |                               |
-
-## Specific
-
-https://eth2book.info/capella/part2/building_blocks/signatures/
-
-| Title                                                        | Description   | Date | Support      | Author |
-| ------------------------------------------------------------ | ------------- | ---- | ------------ | ------ |
-| https://eth2book.info/capella/part2/building_blocks/signatures/ | Signature BLS | ?    | Article /Doc | ?      |
-|                                                              |               |      |              |        |
-|                                                              |               |      |              |        |
-|                                                              |               |      |              |        |
-|                                                              |               |      |              |        |
-
-### Video
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## Projet
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## Specific discussion
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## Security
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## Technical discussion
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-## Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
 
