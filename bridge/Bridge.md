@@ -47,8 +47,9 @@
 
 ### General
 
-| Title with link                                              | Description                                                  | Date       | Support | Author                                                       |
+| Title                                                        | Description                                                  | Date       | Support | Author                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------- | ------------------------------------------------------------ |
+| [Bridge Bugs Overview](https://mixbytes.io/blog/bridge-bugs-overview) | overview of blockchain bridge hacks and discuss ways to prevent and mitigate these attacks. | <2024      | Article | Konstantin Nekrasov / MixBytes                               |
 | [Cross-Chain Bridges: Are They Worth The Risk?](https://hackernoon.com/cross-chain-bridges-are-they-worth-the-risk) |                                                              | 04/04/2022 | Article | emmanuelawosika / hackernoon                                 |
 | [ERC20 Bridge Security](https://www.youtube.com/watch?v=hGDH6CNuMM0) |                                                              | 10/11/2023 | Video   | Peter Robinson / Ethereum Engineer Group                     |
 | [Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148) | Assessment process to choose a cross chain bridge by UniSwap | 01/2023    | Article | [devinwalsh](https://gov.uniswap.org/u/devinwalsh) / gov.uniswap |

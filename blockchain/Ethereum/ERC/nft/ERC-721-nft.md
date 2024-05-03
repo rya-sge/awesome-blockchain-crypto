@@ -20,11 +20,20 @@
 
 ## Company
 
-
-
 | Name                                           | Description                                                  |
 | ---------------------------------------------- | ------------------------------------------------------------ |
 | [smartseal](https://smartseal.io/how-it-works) | Blockchain-Agnostic  1:1 NFC:NFT Coupling For Physical Assets |
 | [nft.storage/](https://nft.storage/)           | Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin. **NFT.Storage** is a long-term storage service designed for **off-chain** NFT data (like metadata, images, and other assets) |
 |                                                |                                                              |
 
+
+
+
+
+
+
+## Security
+
+| Title                                                        | Description                                                  | Date    | Support | Author   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | -------- |
+| [Secure Smart Contract Development — Code Reentrancy in NFT ContractsSecure Smart Contract Development — Code Reentrancy in NFT Contracts](https://blocksecteam.medium.com/secure-smart-contract-development-code-reentrancy-in-nft-contracts-fa6799a3966c) | reentrancy issue in **NFT contracts** and how to mitigate the related vulnerability. | 08/2022 | Article | Blocksec |

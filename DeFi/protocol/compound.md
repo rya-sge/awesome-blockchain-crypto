@@ -34,12 +34,10 @@
 
 ### Others
 
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-Project
+| Title                                                        | Description                                                  | Date | Support        | Author   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------- | -------- |
+| [Dai liquidation event](https://www.comp.xyz/t/dai-liquidation-event/642) | From approximately 12:00am to 1:00am PT on Thanksgiving morning, the  price of DAI on Coinbase Pro began trading at increasing prices and  volume across the DAI/USDC, DAI/USD, and ETH/DAI pairs, reaching as high as $1.30. | 2020 | Compound forum | rleshner |
+|                                                              |                                                              |      |                |          |
 
 
 

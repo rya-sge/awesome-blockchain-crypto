@@ -4,11 +4,11 @@
 
 ## General
 
-| Title                                         | Description                  | Date | Support | Author   |
-| --------------------------------------------- | ---------------------------- | ---- | ------- | -------- |
-| [Arweave wiki](https://arwiki.wiki/#/en/main) | -                            | 2023 | Article | Arweave  |
-| [warp](https://warp.cc/)                      | Smart contracts  on  Arweave | 2023 | Article | RedStone |
-|                                               |                              |      |         |          |
+| Title                                                        | Description                  | Date    | Support | Author                                                       |
+| ------------------------------------------------------------ | ---------------------------- | ------- | ------- | ------------------------------------------------------------ |
+| [Arweave wiki](https://arwiki.wiki/#/en/main)                | -                            | 2023    | Article | Arweave                                                      |
+| [warp](https://warp.cc/)                                     | Smart contracts  on  Arweave | 2023    | Article | RedStone                                                     |
+| [NFT Storage: Comparing IPFS, Filecoin, and Arweave](https://metaversal.banklesshq.com/p/nft-storage) |                              | 11/2023 | Article | [William M. Peaster](https://substack.com/profile/3972632-william-m-peaster) |
 
 ## Lesson
 
@@ -16,7 +16,6 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------- | ------------------------------------------------------------ |
 | [Wrap Academy](https://academy.warp.cc/docs/sdk/overview)    | Warp Contracts SDK is the implementation of the [SmartWeave Protocol](https://academy.warp.cc/docs/sdk/advanced/smartweave-protocol) - a smart contracts protocol on the Arweave blockchain. | 2023 | Article | RedStone                                                     |
 | [What is arweave](https://learnweb3.io/minis/what-is-arweave) | Introduction by Arweave                                      | 2023 | Article | [Arweave Community](https://learnweb3.io/teams/arweave-community) in LearnWeb3 |
-|                                                              |                                                              |      |         |                                                              |
 
 
 

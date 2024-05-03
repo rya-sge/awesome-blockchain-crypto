@@ -2,12 +2,12 @@
 
 ## General
 
-| Title | Date | Support | Author |
-| ----- | ---- | ------- | ------ |
-|       |      |         |        |
-|       |      |         |        |
-|       |      |         |        |
-|       |      |         |        |
+| Title                                                        | Date  | Support | Author     |
+| ------------------------------------------------------------ | ----- | ------- | ---------- |
+| [nullifier](https://nmohnblatt.github.io/zk-jargon-decoder/definitions/nullifier.html) | <2024 | Article | nmohnblatt |
+|                                                              |       |         |            |
+|                                                              |       |         |            |
+|                                                              |       |         |            |
 
 
 
