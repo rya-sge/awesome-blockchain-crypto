@@ -18,8 +18,4 @@ Provide an efficient EVM instruction for copying memory areas.
 |                                                              |                                                              |         |         |           |
 |                                                              |                                                              |         |         |           |
 
-### Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
+### 

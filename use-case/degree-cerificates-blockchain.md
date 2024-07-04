@@ -1,5 +1,7 @@
 # Degree Certificates on Blockchain
 
+[TOC]
+
 ## Research paper
 
 | Title                                                        | Description                                                  | Date    | Support | Author                                                       |

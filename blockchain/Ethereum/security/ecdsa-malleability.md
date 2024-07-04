@@ -10,25 +10,3 @@
 | [Signature Malleability Vulnerabilities in Smart Contracts](https://cryptogennepal.com/blog/signature-malleability-vulnerabilities-in-smart-contracts/) |                                                              | 10/2022 | Article | [Aayushman Thapa Magar](https://cryptogennepal.com/author/aayushman-thapa-magar/) |
 | [ECDSA is Weird](https://kel.bz/post/ecdsa-is-weird/)        | This notebook demonstrates some unexpected properties of ECDSA signatures. | 07/2019 | Article | kel                                                          |
 | [Digital Signatures: ecrecover](https://journal0xrusowsky.substack.com/p/digital-signatures-ecrecover) | let's focus on digital signature verification and `ecrecover`. | 08/2022 | Article | [0xRusowsky](https://substack.com/profile/46892425-0xrusowsky) |
-
-
-
-## Security
-
-
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-
-## Past story
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-## 

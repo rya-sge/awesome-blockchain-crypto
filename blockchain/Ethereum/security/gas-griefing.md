@@ -1,5 +1,7 @@
 # Gas Griefing
 
+
+
 ## General
 
 | Title                                                        | Description                                                  | Date    | Support | Author                       |
@@ -10,23 +12,3 @@
 |                                                              |                                                              |         |         |                              |
 
 
-
-## Security
-
-
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-
-## Past story
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-## 

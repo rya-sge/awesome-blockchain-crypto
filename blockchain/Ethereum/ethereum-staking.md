@@ -1,7 +1,5 @@
 # Ethereum staking
 
-
-
 [TOC]
 
 ## General

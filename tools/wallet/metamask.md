@@ -11,8 +11,6 @@
 | https://support.metamask.io/hc/en-us/articles/6174898326683-What-is-a-token-approval- |             |         |         |              |
 |                                                              |             |         |         |              |
 |                                                              |             |         |         |              |
-|                                                              |             |         |         |              |
-|                                                              |             |         |         |              |
 
 ## General
 
@@ -21,11 +19,6 @@
 | [Metamask Snaps: Playing in the Sand](https://osec.io/blog/2023-11-01-metamask-snaps) | -           | 11/2023 | Article | OtterSec           |
 | [Metamask improves token approval UX](https://blog.nftx.io/metamask-improves-token-approval-ux/) | -           | 03/2023 | Article | Javery /nftx       |
 | [What is a token approval?](https://support.metamask.io/hc/en-us/articles/6174898326683-What-is-a-token-approval-) | .           | 04/2023 | Article | Metamask - Support |
-|                                                              |             |         |         |                    |
-|                                                              |             |         |         |                    |
-|                                                              |             |         |         |                    |
-|                                                              |             |         |         |                    |
-|                                                              |             |         |         |                    |
 |                                                              |             |         |         |                    |
 |                                                              |             |         |         |                    |
 

@@ -1,4 +1,4 @@
-# ERC-7540
+# ERC-7540 - Asynchronous ERC-4626 Tokenized Vaults
 
 https://eips.ethereum.org/EIPS/eip-7540
 

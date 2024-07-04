@@ -14,8 +14,3 @@
 |                                                              |                                                              |         |         |              |
 |                                                              |                                                              |         |         |              |
 
-### Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |

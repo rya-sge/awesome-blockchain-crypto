@@ -10,28 +10,3 @@
 | [https://polygon.technology/blog/polygon-2-0-protocol-vision-and-architecture](https://polygon.technology/blog/polygon-2-0-protocol-vision-and-architecture) | Polygon 2.0: Protocol Architecture                           | 06/2023 | Article | Polygon Labs |
 |                                                              |                                                              |         |         |              |
 
-## General
-
-| Title with link | Description | Date | Support | Author |
-| --------------- | ----------- | ---- | ------- | ------ |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-
-# Security
-
-| Title with link | Description | Date | Support | Author |
-| --------------- | ----------- | ---- | ------- | ------ |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-
-## Past accident
-
-| Title with link | Description | Date | Support | Author |
-| --------------- | ----------- | ---- | ------- | ------ |
-|                 |             |      |         |        |
-|                 |             |      |         |        |
-|                 |             |      |         |        |

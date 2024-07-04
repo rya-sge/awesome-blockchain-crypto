@@ -1,5 +1,7 @@
 # Slippage attacks
 
+[TOC]
+
 ## General
 
 | Title                                                        | Description                                                  | Date    | Support | Author             |
@@ -9,20 +11,5 @@
 |                                                              |                                                              |         |         |                    |
 |                                                              |                                                              |         |         |                    |
 
-## Specific
 
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-## Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
+## 

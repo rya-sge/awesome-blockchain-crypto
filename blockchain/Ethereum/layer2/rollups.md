@@ -1,3 +1,5 @@
+# Rollup
+
 ## General
 
 | Title                                                        | Description                                                  | Date    | Support | Author     |
@@ -9,22 +11,13 @@
 
 ## Optimistic rollup
 
-## 
-
-| Name                                | Description | Company | Doc  | Article |
-| ----------------------------------- | ----------- | ------- | ---- | ------- |
-| [Arbitrum](https://arbitrum.io)     |             |         |      |         |
-| [Optimism](https://www.optimism.io) |             |         |      |         |
-| Boba network                        |             |         |      |         |
+- [Arbitrum](https://arbitrum.io)
+- [Optimism](https://www.optimism.io)
+- Boba network
 
 
 
 ## Zk-rollup
 
-## 
-
-| Name        | Description | Company | Doc  | Article |
-| ----------- | ----------- | ------- | ---- | ------- |
-|             |             |         |      |         |
-| Loopring    |             |         |      |         |
-| Immutable X |             |         |      |         |
+- Loopring
+- Immutable X

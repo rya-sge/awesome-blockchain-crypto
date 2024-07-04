@@ -10,6 +10,8 @@
 | [China’s risky Bitcoin court decision](https://cointelegraph.com/magazine/chinas-risky-bitcoin-court-decision-is-huobi-in-trouble-or-not-asia-express/) | Chinese police detain Web3  cofounders, and a local court's Bitcoin decision raises eyebrows.  Meanwhile, Huobi faces fresh controversy. | 08/2023 | Article | [Zhiyuan Sun](https://cointelegraph.com/magazine/author/zhiyuansun/) |
 |                                                              |                                                              |         |         |                                                              |
 
+
+
 ## Projet
 
 | Title | Description | Date | Company | Author |
