@@ -22,6 +22,16 @@
 | [Exploring Solana: A Comprehensive Guide to Accounts, Tokens, Transactions, and Ensuring Asset Security](https://defihacklabs.substack.com/p/exploring-solana-a-comprehensive) |                                                       | 01/2024 | Article | [sunweb3sec](https://substack.com/profile/24583394-sunweb3sec) |
 
 
+
+## Security
+
+| Title                                                        | Description                                                  | Date    | Support | Author                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ---------------------- |
+| [Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem](https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/) | The Macalinao brothers used a web of bogus identities to create the illusion of a dev community, juicing value on the Saber protocol and Solana blockchain.  Now they're moving to Aptos. | 08/2022 | Article | Danny nelson /CoinDesk |
+|                                                              |                                                              |         |         |                        |
+|                                                              |                                                              |         |         |                        |
+|                                                              |                                                              |         |         |                        |
+
 ## Projet
 
 | Title | Description | Date | Support | Author |

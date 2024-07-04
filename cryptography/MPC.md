@@ -2,12 +2,12 @@
 
 ## General
 
-| Title with link | Date | Support | Author |
-| --------------- | ---- | ------- | ------ |
-|                 |      |         |        |
-|                 |      |         |        |
-|                 |      |         |        |
-|                 |      |         |        |
+| Title with link | Date | Description | Support | Author |
+| --------------- | ---- | ----------- | ------- | ------ |
+|                 |      |             |         |        |
+|                 |      |             |         |        |
+|                 |      |             |         |        |
+|                 |      |             |         |        |
 
 
 

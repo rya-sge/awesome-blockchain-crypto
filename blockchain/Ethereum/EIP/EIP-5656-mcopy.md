@@ -1,6 +1,6 @@
 # EIP-5656:MCOPY
 
-Introcued with the the [Dencun Upgrade](https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/cancun.md)
+Introduced with the [Dencun Upgrade](https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/cancun.md)
 
 Provide an efficient EVM instruction for copying memory areas.
 

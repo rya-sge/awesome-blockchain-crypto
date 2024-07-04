@@ -1,5 +1,7 @@
 ## Metamask
 
+[https://metamask.io/](https://metamask.io/)
+
 ## Official documentation
 
 | Title                                                        | Description | Date    | Support | Author       |
@@ -38,10 +40,10 @@
 
 ## News
 
-| Title                                                        | Description                                                 | Date    | Support | Author                                                       |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ------- | ------- | ------------------------------------------------------------ |
-| https://decrypt.co/203803/metamask-launches-new-security-alerts-feature-blockaid | MetaMask Launches New Security Alerts Feature With Blockaid | 31/2023 | Article | decrypt.co /  [Andrew Asmakov](https://decrypt.co/author/andrewasmakov) |
-|                                                              |                                                             |         |         |                                                              |
-|                                                              |                                                             |         |         |                                                              |
-|                                                              |                                                             |         |         |                                                              |
+| Title                                                        | Description                                                  | Date    | Support | Author                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
+| [MetaMask Launches New Security Alerts Feature With Blockaid](https://decrypt.co/203803/metamask-launches-new-security-alerts-feature-blockaid) | MetaMask desktop users will be able to take advantage of the new feature by opting in under the MetaMask experimental setting and adding the  Privacy Preserving Offline Module (PPOM). | 31/2023 | Article | decrypt.co /  [Andrew Asmakov](https://decrypt.co/author/andrewasmakov) |
+| [Popular Crypto Wallet MetaMask Rolls Out 'Smart Transactions' to Combat Ethereum Front-Running](https://www.coindesk.com/tech/2024/05/06/popular-crypto-wallet-metamask-rolls-out-smart-transactions-to-combat-ethereum-front-running/) | MetaMask  is rolling out a  new feature this week designed to help users avoid the consequences of  maximal extractable value, or MEV. | 05/2024 | Article | [Sam Kessler](https://www.coindesk.com/author/sam-kessler/)  |
+|                                                              |                                                              |         |         |                                                              |
+|                                                              |                                                              |         |         |                                                              |
 

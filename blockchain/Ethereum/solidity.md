@@ -29,6 +29,20 @@ official doc: [v0.8.23/](https://docs.soliditylang.org/en/v0.8.23/)
 
 
 
+## Create2
+
+| Title                                                        | Description                                                  | Date    | Support | Author                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------- |
+| [Pitfalls of Using CREATE, CREATE2 and EXTCODESIZE Opcodes](https://mixbytes.io/blog/pitfalls-of-using-cteate-cteate2-and-extcodesize-opcodes) |                                                              | <2024   | Article | MixBytes                                                |
+| [Explained: Create2 Opcode in Solidity](https://www.immunebytes.com/blog/explained-create2-opcode-in-solidity/) | This article aims to deliver a thorough guide on the CREATE2 opcode,  exploring its rationale, appropriate use cases, its implementation, and  providing a practical example. | 01/2024 | Article | ImmuneBytes                                             |
+| [The Ultimate Guide to **create**, create2 and create3](https://blog.solichain.com/the-ultimate-guide-to-create-create2-and-create3-cc6fe71c6d40) | This guide will give you a quick overview of what each one does and why they matter. | 11/2023 | Article | Adam Boudjemaa                                          |
+| [Dark Side of CREATE2 opcode](https://medium.com/coinmonks/dark-side-of-create2-opcode-6b6838a42d71) | The combo of create2 and self-destruct are deadly and we are gonna explore about this in this article | 01/2022 | Article | Jayakumar/Coinmonks                                     |
+| https://x.com/realScamSniffer/status/1723627800828195030     | Wallet Drainers are misusing Create2 to bypass security alerts in some wallets by generating new addresses for each malicious signature. | 11/2023 | Article | Scam Sniffer - Web3 Anti-scam                           |
+| [Precompute Contract Address with Create2](https://solidity-by-example.org/app/create2/) | Example of use with CREATE2                                  | -       | Code    | [Solidity by Example](https://solidity-by-example.org/) |
+| [Metamorphosis Smart Contracts using CREATE2](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/12-metamorphosis-create2/) |                                                              |         |         |                                                         |
+
+
+
 ## Pattern
 
 | Title                                                        | Description                                                  | Date    | Support        | Author                                                       |

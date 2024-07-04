@@ -31,7 +31,7 @@
 
 ## Past accident
 
-| [Title with link](https://twitter.com/shard_labs?lang=en)    | Description                                                  | Date    | Support | Author                                                       |
+| [Title](https://twitter.com/shard_labs?lang=en)              | Description                                                  | Date    | Support | Author                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
 | [Lido Finance pauses polygon staking](https://crypto.news/lido-finance-pauses-polygon-staking-and-withdrawal-out-of-prudence/) | Lido Finance pauses polygon staking and withdrawal ‘out of prudence’ | 03/2023 | Article | [devinwalsh](https://gov.uniswap.org/u/devinwalsh) / gov.uniswap |
 | [Post Mortem: RockLogic GmbH Slashing Incident](https://blog.lido.fi/loe-rocklogic-gmbh-slashing-incident/) | Post Mortem: Lido on Ethereum RockLogic GmbH Slashing Incident | 04/2023 | Article | Lido                                                         |
