@@ -4,16 +4,18 @@ Resources related to proxy
 
 ## General
 
-| Title                                                        | Description | Date               | Support                 | Author                                   |
-| ------------------------------------------------------------ | ----------- | ------------------ | ----------------------- | ---------------------------------------- |
-| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) |             | September 12, 2023 | Article                 | banteg                                   |
-| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) |             | September 3, 2023  | Article                 | dimo_audit                               |
-| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) |             | -                  | Article                 | Remix                                    |
-| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) |             | March 22, 2022     | Article                 | Naveen                                   |
-| [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405.pdf) |             | ~2020              | Research  paper (arxiv) | Sajad Meisami, William Edward Bodell III |
-| [yAcademy Proxies Research](https://proxies.yacademy.dev)    |             | ?                  | Several articles        | yAcademy                                 |
-|                                                              |             |                    |                         |                                          |
-|                                                              |             |                    |                         |                                          |
+
+
+| Title                                                        | Description                                                  | Date               | Support                 | Author                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ----------------------- | ---------------------------------------- |
+| [OpenZeppelin - Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) | This article describes the "unstructured storage" proxy pattern, the fundamental building block of OpenZeppelin Upgrades. | -                  | Doc                     | OpenZeppelin                             |
+| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | The history of minimal proxies and how to scan the blockchain on your laptop in seconds | September 12, 2023 | Article                 | banteg                                   |
+| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | We'll go with diagrams one by one over: Eternal Storage Proxy Transparent Upgradeable Proxy UUPS, Minimal Proxies / Clones, Beacon Proxies | September 3, 2023  | Article                 | dimo_audit                               |
+| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) | Remix IDE has the functionality to assist in the handling of proxy contracts that use the UUPS pattern. | -                  | Article                 | Remix                                    |
+| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) |                                                              | March 22, 2022     | Article                 | Naveen                                   |
+| [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405.pdf) |                                                              | ~2020              | Research  paper (arxiv) | Sajad Meisami, William Edward Bodell III |
+| [yAcademy Proxies Research](https://proxies.yacademy.dev)    |                                                              | ?                  | Several articles        | yAcademy                                 |
+|                                                              |                                                              |                    |                         |                                          |
 
 
 
@@ -38,11 +40,6 @@ Resources related to proxy
 | [Replaying Ethereum Hacks - Furucombo](https://cmichel.io/replaying-ethereum-hacks-furucombo/) | Let’s dive into the attack, understand it by reading the code of the relevant contracts, and then replay the hack using a custom contract. | 02/2021 | Article | cmichael |
 | [ ZKSYNC1-2021-01 Post Mortem](https://web.archive.org/web/20220929042509/https://docs.zksync.io/dev/security/ZKSYNC1-2021-01/#summary) | If the attacker sets `additionalZkSync` to an address that would execute the `SELFDESTRUCT` opcode on any entry, and then call any function on the zkSync main contract that uses logic from `additionalZkSync` via delegatecall, the main zkSync target contract could have been destroyed and all funds would have been frozen. | 2021    | Article | zkSync   |
 | [Wormhole Uninitialized Proxy Bugfix Review](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) | This bug was an upgradeable proxy implementation self-destruct bug that could have led to a potential lockup of user funds. | 05/2022 | Article | Wormhole |
-|                                                              |                                                              |         |         |          |
-|                                                              |                                                              |         |         |          |
-|                                                              |                                                              |         |         |          |
-|                                                              |                                                              |         |         |          |
-|                                                              |                                                              |         |         |          |
 |                                                              |                                                              |         |         |          |
 
 ## UUPS
@@ -99,5 +96,5 @@ Resources related to proxy
 
   
 
-Reference: [www.rareskills.io/post/solidity-interview-questions](https://www.rareskills.io/post/solidity-interview-questions)
+Reference: [rareskills.io/post/solidity-interview-questions](https://www.rareskills.io/post/solidity-interview-questions)
 
