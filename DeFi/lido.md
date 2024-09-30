@@ -17,16 +17,12 @@
 | ----- | ----------- | ---- | ------- | ------ |
 |       |             |      |         |        |
 |       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
 
 # Security
 
 | Title                                                        | Description | Date    | Support | Author     |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ---------- |
 | [Magnitude and direction of Lido attack vectors](https://notes.ethereum.org/@mikeneuder/https://notes.ethereum.org/@mikeneuder/) |             | 10/2023 | Article | mikeneuder |
-|                                                              |             |         |         |            |
-|                                                              |             |         |         |            |
 |                                                              |             |         |         |            |
 
 ## Past accident

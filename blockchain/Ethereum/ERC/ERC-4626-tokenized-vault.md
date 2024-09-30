@@ -20,9 +20,9 @@
 
 | Title                                                        | Description                                                  | Date    | Support | Author                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
-| [Superform - Step-by-Step Guide to Crosschain Deposits in ERC4626 Vaults](https://twitter.com/solthodox/status/1733430143513731285) |                                                              | 12/2023 | Tweet   | [solthodox.eth](https://twitter.com/solthodox)               |
+| [Superform - Step-by-Step Guide to Crosschain Deposits in ERC4626 Vaults](https://x.com/solthodox/status/1733417891146482112) | Superform - A Step-by-Step Guide to Crosschain Deposits in ERC4626 Vault | 12/2023 | Tweet   | [solthodox.eth](https://twitter.com/solthodox)               |
 | [tvl.erc4626.info/](https://tvl.erc4626.info/)               | Vault list by TVL amounts                                    |         | Website | ?                                                            |
-| [ERC-7540: Asynchronous ERC-4626 Tokenized Vaults](https://eips.ethereum.org/EIPS/eip-7540) | Extension of ERC-4626 with asynchronous deposit and redemption support | 10/2023 | ERC     | Jeroen Offerijns ([@hieronx](https://github.com/hieronx)), Alina Sinelnikova ([@ilinzweilin](https://github.com/ilinzweilin)), Vikram Arun ([@vikramarun](https://github.com/vikramarun)), Joey Santoro ([@joeysantoro](https://github.com/joeysantoro)), Farhaan Ali ([@0xfarhaan](https://github.com/0xfarhaan)) |
+| [ERC-7540: Asynchronous ERC-4626 Tokenized Vaults](https://eips.ethereum.org/EIPS/eip-7540) | Extension of ERC-4626 with asynchronous deposit and redemption support | 10/2023 | ERC     | Jeroen Offerijns, Alina Sinelnikova. Vikram Arun, Joey Santoro, Farhaan Ali |
 |                                                              |                                                              |         |         |                                                              |
 
 

@@ -2,35 +2,56 @@
 
 Resources related to proxy
 
+My article: [Programming proxy contracts with OpenZeppelin - Summary](https://rya-sge.github.io/access-denied/2022/10/31/proxy-contract-summary/)
+
+Relevant ERC:
+
+- [ERC-1967: Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967) (finalized)
+- [ERC-1822: Universal Upgradeable Proxy Standard (UUPS) ](https://eips.ethereum.org/EIPS/eip-1822)
+- [ERC-1167: Minimal Proxy Contract](https://eips.ethereum.org/EIPS/eip-1167) (finalized)
+- [ERC-2535: Diamonds, Multi-Facet Proxy Create modular smart contract systems that can be extended after deployment](https://eips.ethereum.org/EIPS/eip-2535) (finalized)
+- [ERC-7504: Dynamic Contracts](https://ethereum-magicians.org/t/erc-7504-dynamic-contracts/15551) (draft)
+
+[TOC]
+
+
+
+
+
 ## General
 
+| Title                                                        | Description                                                  | Date              | Support                 | Author                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ----------------------- | ---------------------------------------- |
+| [Upgradable Smart Contracts - What is a Smart Contract Proxy Pattern?](https://www.cyfrin.io/blog/upgradeable-proxy-smart-contract-pattern) | Proxy Smart Contracts patterns are a simple and effective way to create  upgradable smart contracts to keep your protocol up to date. | 04/2024           | Article                 | Ciara Nightingale / Cyfrin               |
+| [OpenZeppelin - Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) | This article describes the "unstructured storage" proxy pattern, the fundamental building block of OpenZeppelin Upgrades. | -                 | Doc                     | OpenZeppelin                             |
+| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | We'll go with diagrams one by one over: Eternal Storage Proxy Transparent Upgradeable Proxy UUPS, Minimal Proxies / Clones, Beacon Proxies | September 3, 2023 | Article                 | dimo_audit                               |
+| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) |                                                              | March 22, 2022    | Article                 | Naveen                                   |
+| [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405.pdf) |                                                              | ~2020             | Research  paper (arxiv) | Sajad Meisami, William Edward Bodell III |
+| [yAcademy Proxies Research](https://proxies.yacademy.dev)    |                                                              | ?                 | Several articles        | yAcademy                                 |
 
 
-| Title                                                        | Description                                                  | Date               | Support                 | Author                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ----------------------- | ---------------------------------------- |
-| [OpenZeppelin - Proxy Upgrade Pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies) | This article describes the "unstructured storage" proxy pattern, the fundamental building block of OpenZeppelin Upgrades. | -                  | Doc                     | OpenZeppelin                             |
-| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | The history of minimal proxies and how to scan the blockchain on your laptop in seconds | September 12, 2023 | Article                 | banteg                                   |
-| [Proxies in smart contracts thread](https://twitter.com/dimo_audit/status/1698324235595260398) | We'll go with diagrams one by one over: Eternal Storage Proxy Transparent Upgradeable Proxy UUPS, Minimal Proxies / Clones, Beacon Proxies | September 3, 2023  | Article                 | dimo_audit                               |
-| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) | Remix IDE has the functionality to assist in the handling of proxy contracts that use the UUPS pattern. | -                  | Article                 | Remix                                    |
-| [Proxy Patterns For Upgradeability Of Solidity Contracts: Transparent vs UUPS Proxies](https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/M7oTptQkBGXxox-tk9VJjL66E1V8BUF0GF79MMK4YG0) |                                                              | March 22, 2022     | Article                 | Naveen                                   |
-| [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405.pdf) |                                                              | ~2020              | Research  paper (arxiv) | Sajad Meisami, William Edward Bodell III |
-| [yAcademy Proxies Research](https://proxies.yacademy.dev)    |                                                              | ?                  | Several articles        | yAcademy                                 |
-|                                                              |                                                              |                    |                         |                                          |
 
+## Specific topic
 
+| Title                                                        | Description                                                  | Date               | Support | Author                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------- | ------------------------------ |
+| [Minimal Proxy Compendium](https://banteg.xyz/posts/minimal-proxies/) | The history of minimal proxies and how to scan the blockchain on your laptop in seconds | September 12, 2023 | Article | banteg                         |
+| [remix-Deploy & Run Proxy Contracts](https://remix-ide.readthedocs.io/en/latest/run_proxy_contracts.html) | Remix IDE has the functionality to assist in the handling of proxy contracts that use the UUPS pattern. | -                  | Article | Remix                          |
+| [EIP-7504: Dynamic Smart Contracts](https://blog.thirdweb.com/erc-7504-dynamic-smart-contracts/) | A new Ethereum standard for client-friendly one-to-many proxy contracts. | 09/2023            | Article | Krishang Nadgauda / ThirdWeb   |
+| [The initializable smart contract design pattern](https://www.rareskills.io/post/initializable-solidity) | How initializers work                                        | 07/08/2023         | Article | RareSkills / Joao Paulo Morais |
 
 ## Security
 
-| Title                                                        | Description | Date     | Support | Author                                                       |
-| ------------------------------------------------------------ | ----------- | -------- | ------- | ------------------------------------------------------------ |
-| [Improve security for Initializer.sol](https://banteg.xyz/posts/minimal-proxies/) |             | 03/2023  | Article | [0xPhaze](https://github.com/0xPhaze)                        |
-| [Auditor’s Notes: Initializing, Proxy, Oracles & Multi-Chain](https://blog.pessimistic.io/auditors-notes-initializing-proxy-oracles-multi-chain-e314ec0694b2) |             | 08/2023  | Article | [Officer's Notes](https://officercia.medium.com/)            |
-| [Upgradeable Proxy Contract Security Best Practices](https://www.certik.com/resources/blog/FnfYrOCsy3MG9s9gixfbJ-upgradeable-proxy-contract-security-best-practices) |             | 11/2022  | Article | Certik                                                       |
-| [blog.openzeppelin.com/proxy-patterns](https://blog.openzeppelin.com/proxy-patterns) |             | 04/2018  | Article | OpenZeppelin                                                 |
-| [Why you should never approve proxy smart contracts for token spending?](https://medium.com/easyblock-blockchain-technology-blog/why-you-should-never-approve-proxy-smart-contracts-for-token-spending-3797e542113b) |             | 11/ 2022 | Article | [Doğu Deniz Uğur](https://medium.com/@dogudenizugur)         |
-| [forum.openzeppelin.com/Risk on proxy initialize front-running risk](https://forum.openzeppelin.com/t/risk-on-proxy-initialize-front-running-risk/27280/1) |             | 04/2022  | Article | [rareblocks](https://forum.openzeppelin.com/u/rareblocks)    |
-| [twitter.com-Bug Challenge #3](https://twitter.com/bytes032/status/1611346854070861824) |             | 01/ 2022 | Article | bytes032                                                     |
-| [Delegatecall & Contract Upgradability](https://journal0xrusowsky.substack.com/p/delegatecall-and-contract-upgradability) |             | 08/2022  | Article | [xRusowsky](https://substack.com/profile/46892425-0xrusowsky) |
+| Title                                                        | Description                | Date     | Support | Author                                                       |
+| ------------------------------------------------------------ | -------------------------- | -------- | ------- | ------------------------------------------------------------ |
+| [Improve security for Initializer.sol](https://banteg.xyz/posts/minimal-proxies/) |                            | 03/2023  | Article | [0xPhaze](https://github.com/0xPhaze)                        |
+| [Auditor’s Notes: Initializing, Proxy, Oracles & Multi-Chain](https://blog.pessimistic.io/auditors-notes-initializing-proxy-oracles-multi-chain-e314ec0694b2) |                            | 08/2023  | Article | [Officer's Notes](https://officercia.medium.com/)            |
+| [Upgradeable Proxy Contract Security Best Practices](https://www.certik.com/resources/blog/FnfYrOCsy3MG9s9gixfbJ-upgradeable-proxy-contract-security-best-practices) |                            | 11/2022  | Article | Certik                                                       |
+| [blog.openzeppelin.com/proxy-patterns](https://blog.openzeppelin.com/proxy-patterns) | Introducing Proxy Patterns | 04/2018  | Article | OpenZeppelin                                                 |
+| [Why you should never approve proxy smart contracts for token spending?](https://medium.com/easyblock-blockchain-technology-blog/why-you-should-never-approve-proxy-smart-contracts-for-token-spending-3797e542113b) |                            | 11/ 2022 | Article | [Doğu Deniz Uğur](https://medium.com/@dogudenizugur)         |
+| [forum.openzeppelin.com/Risk on proxy initialize front-running risk](https://forum.openzeppelin.com/t/risk-on-proxy-initialize-front-running-risk/27280/1) |                            | 04/2022  | Article | [rareblocks](https://forum.openzeppelin.com/u/rareblocks)    |
+| [twitter.com-Bug Challenge #3](https://twitter.com/bytes032/status/1611346854070861824) |                            | 01/ 2022 | Article | bytes032                                                     |
+| [Delegatecall & Contract Upgradability](https://journal0xrusowsky.substack.com/p/delegatecall-and-contract-upgradability) |                            | 08/2022  | Article | [xRusowsky](https://substack.com/profile/46892425-0xrusowsky) |
 
 ### Accident
 
@@ -42,7 +63,7 @@ Resources related to proxy
 | [Wormhole Uninitialized Proxy Bugfix Review](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) | This bug was an upgradeable proxy implementation self-destruct bug that could have led to a potential lockup of user funds. | 05/2022 | Article | Wormhole |
 |                                                              |                                                              |         |         |          |
 
-## UUPS
+## UUPS Proxy
 
 | Title                                                        | Description | Date         | Support         | Author                                   |
 | ------------------------------------------------------------ | ----------- | ------------ | --------------- | ---------------------------------------- |
@@ -59,7 +80,7 @@ Resources related to proxy
 | [Understanding delegatecall And How to Use It Safely](https://eip2535diamonds.substack.com/p/understanding-delegatecall-and-how) | -           | 07/2021          | Article        | Nick Mudge        |
 | [The Diamond Proxy simply explained](https://twitter.com/CharlesWangP/status/1762915168558690549?t=_Y4rPZO0ewl-bxcEEUzt8w&s=35) | -           | 02/2024          | Tweet          | Charles Wang      |
 
-## Beacon
+## Beacon Proxy
 
 | Title                                                        | Description | Date    | Support                                                      | Author                                       |
 | ------------------------------------------------------------ | ----------- | ------- | ------------------------------------------------------------ | -------------------------------------------- |

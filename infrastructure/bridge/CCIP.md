@@ -2,6 +2,11 @@
 
 Website: [https://chain.link/cross-chain](https://chain.link/cross-chain) 
 
+Articles written as my work for Taurus:
+
+- [Blockchain Interoperability Explained: Bridges, Cross-Chain Protocols, and CCIP](https://www.taurushq.com/blog/blockchain-interoperability-explained-bridges-cross-chain-protocols-and-ccip/)
+- [How to Bridge USDC Across EVM Chains Using Chainlink's CCIP Protocol](https://www.taurushq.com/blog/how-to-bridge-usdc-across-evm-chains-using-chainlinks-ccip-protocol/)
+
 ## Official resources
 
 | Title                                                        | Description                                                  | Date    | Support  | Author                                                       |
@@ -26,7 +31,6 @@ Website: [https://chain.link/cross-chain](https://chain.link/cross-chain)
 | Title                                                        | Description | Date    | Support         | Author                                                |
 | ------------------------------------------------------------ | ----------- | ------- | --------------- | ----------------------------------------------------- |
 | [Deploy wstETH to BNB Chain Using Chainlink CCIP](https://research.lido.fi/t/deploy-wsteth-to-bnb-chain-using-chainlink-ccip/6082) | -           | 12/2023 | Lido - proposal | [CLL_Michael](https://research.lido.fi/u/CLL_Michael) |
-|                                                              |             |         |                 |                                                       |
 |                                                              |             |         |                 |                                                       |
 
 

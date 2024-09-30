@@ -2,11 +2,9 @@
 
 [TOC]
 
-
-
 ## Ordinals
 
-Website: [https://docs.ordinals.com/overview.html](https://docs.ordinals.com/overview.html)
+Website: [docs.ordinals.com/overview.html](https://docs.ordinals.com/overview.html)
 
 ### General
 
@@ -14,12 +12,10 @@ Website: [https://docs.ordinals.com/overview.html](https://docs.ordinals.com/ove
 | ------------------------------------------------------------ | ----------------------- | ---- | ------- | ------ |
 | [docs.ordinals.com - faq](https://docs.ordinals.com/faq.html) | Ordinal Theory handbook |      | Article |        |
 |                                                              |                         |      |         |        |
-|                                                              |                         |      |         |        |
-|                                                              |                         |      |         |        |
 
 ## BRC-20
 
-Official page: [layer1.gitbook.io/layer1-foundation/protocols/brc-20](https://layer1.gitbook.io/layer1-foundation/protocols/brc-20), [domo-2.gitbook.io - brc-20](https://domo-2.gitbook.io/brc-20-experiment)
+Specification: [layer1.gitbook.io/layer1-foundation/protocols/brc-20](https://layer1.gitbook.io/layer1-foundation/protocols/brc-20), [domo-2.gitbook.io - brc-20](https://domo-2.gitbook.io/brc-20-experiment)
 
 | Title                                                        | Description                                                  | Date    | Support | Author                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
@@ -31,24 +27,24 @@ Official page: [layer1.gitbook.io/layer1-foundation/protocols/brc-20](https://la
 
 ## SRC-20
 
+Specification: [github.com/stampchain-io - src20specs.md](https://github.com/stampchain-io/stamps_sdk/blob/main/docs/src20specs.md)
+
 | Title                                                        | Description                                                  | Date    | Support | Author        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------- |
 | [What is SRC-20: spurring innovation in Bitcoin's token ecosystem](https://www.okx.com/fr/learn/what-is-src20-spurring-innovation-in-bitcoin-ecosystem) | SRC-20 token standard is designed for creating and managing tokens, especially Bitcoin Stamps, on Bitcoin's blockchain | 12/2023 | Article | okx           |
 | [What is the SRC-20 token standard: An overview](https://cointelegraph.com/learn/what-is-the-src-20-token-standard) |                                                              | 2023    | Article | cointelegraph |
-|                                                              |                                                              |         |         |               |
-|                                                              |                                                              |         |         |               |
 |                                                              |                                                              |         |         |               |
 
 
 
 ## Runes
 
-Official page: [docs.ordinals.com/runes.html](https://docs.ordinals.com/runes.html)
+Specification: [docs.ordinals.com/runes.html](https://docs.ordinals.com/runes.html)
 
 | Title                                                        | Description                                                  | Date    | Support     | Author              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----------- | ------------------- |
 | [Zulu Research ](https://medium.com/@zulu_network/zulu-research-runes-protocol-444b40d8bf39) | Runes Protocol                                               | 04/2024 | Article     | Zulu Network        |
 | [Navigating Runes Protocol Launch: Beyond the Initial Hype](https://www.ignasdefi.com/p/navigating-runes-protocol-launch) | My short term bearish, long-term bullish stance on Runes.    | 04/2024 | Article     | Ignas Defi Research |
-| [OP_RETURN](https://learnmeabitcoin.com/technical/script/return/) | OP_RETURN refers to a standard locking script that can be used to **store data inside [transactions](https://learnmeabitcoin.com/technical/transaction/)**. | -       | Article/doc | learn me bitcoin    |
-| [OP_RETURN](https://en.bitcoin.it/wiki/OP_RETURN)            | **OP_RETURN** is a [script](https://en.bitcoin.it/wiki/Script) opcode used to mark a transaction output as invalid. Since any outputs  with OP_RETURN are provably unspendable, OP_RETURN outputs can be used  to [burn](https://en.bitcoin.it/wiki/Proof_of_burn) bitcoins. | -       | Article/doc | en.bitcoin.it       |
+| [OP_RETURN](https://learnmeabitcoin.com/technical/script/return/) | OP_RETURN refers to a standard locking script that can be used to store data inside [transactions](https://learnmeabitcoin.com/technical/transaction/). | -       | Article/doc | learn me bitcoin    |
+| [OP_RETURN](https://en.bitcoin.it/wiki/OP_RETURN)            | OP_RETURN is a [script](https://en.bitcoin.it/wiki/Script) opcode used to mark a transaction output as invalid. Since any outputs  with OP_RETURN are provably unspendable, OP_RETURN outputs can be used  to [burn](https://en.bitcoin.it/wiki/Proof_of_burn) bitcoins. | -       | Article/doc | en.bitcoin.it       |
 | [OP_Return Meaning](https://www.ledger.com/academy/glossary/op_return) | OP_Return is a special data storage function in a blockchain  transaction. It allows users to include arbitrary data in transactions  and transmit them to the entire network. | 05/2024 | Article/doc | Ledger Academy      |

@@ -19,23 +19,6 @@
 | [slot all bacic types](https://twitter.com/bytes032/status/1725523686705250394?t=X9F9H9F--70Thd0kdMzwsw&s=19) | forge inspect src/test.sol:Test storage --pretty             | 11/2023 | Tweet   | bytes032.xyz |
 |                                                              |                                                              |         |         |              |
 
-## Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## News
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
 ## Project
 
 | Title                                                        | Description                                                  | Date | Support        | Author                       |

@@ -8,6 +8,8 @@
 | [Check the authenticity of Trezor Model one packaging and contents](https://trezor.io/learn/a/authenticate-model-one) | -           | -       | Article | Trezor |
 | [Security](https://trezor.io/security)                       | -           | -       | Article | Trezor |
 
+
+
 ## General
 
 | Title                                                        | Description                                    | Date    | Support | Author     |
@@ -18,33 +20,10 @@
 
 
 
-## Lesson
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
-## News
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-
-
-
 # Security
 
-
-
 | Title | Description | Date | Support | Author |
 | ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
 |       |             |      |         |        |
 |       |             |      |         |        |
 

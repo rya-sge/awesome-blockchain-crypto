@@ -18,12 +18,3 @@
 | Defenders    | OpenZeppelin |             |
 |              |              |             |
 
-## News
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-

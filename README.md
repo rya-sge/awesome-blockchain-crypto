@@ -51,6 +51,17 @@ Grouping of articles on blockchain and cryptography grouped by topic
 
 - [Sui](./blockchain/Sui)
 
+## Defi
+
+- [Lido](./DeFi/lido.md)
+- [Rebase token](./DeFi/rebase-token.md)
+- [Restaking](./DeFi/restaking.md)
+
+### Stablecoin
+
+- [Ethena](./Defi/stablecoin/ethena.md)
+- [makerDAO](./Defi/stablecoin/makerDAO.md)
+
 ## Infrastructure
 
 ### Bridge
@@ -88,7 +99,12 @@ Grouping of articles on blockchain and cryptography grouped by topic
 ## Cryptography
 
 - [ECDSA](./cryptography/ecdsa.md)
-- [Pedersen hash](./cryptography/pedersen-hash.md)
+- [Mimblewimble](./cryptography/mimblewimble.md)
+- [MPC](./cryptography/MPCmd)
+- Hash function
+  - [Pedersen hash](./cryptography/pedersen-hash.md)
+  - [Poseidon hash](./cryptography/pedersen-hash.md)
+
 - [Winternitz](./cryptography/winternitz.md)
 - [zero-knowledge proof](./cryptography/zero-knowledge-proof.md)
 

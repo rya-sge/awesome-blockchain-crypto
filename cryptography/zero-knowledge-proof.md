@@ -22,6 +22,17 @@
 | ZK FAQ: What's a trusted setup? What's a Structured Reference String? What's toxic waste? | In proof systems, provers and the verifiers rely on a common set of parameters, sometimes referred to as the **common reference string (CRS)**. | 06/2022 | Article        | cryptologie.net    |
 | [Commitment Schemes and<br/>Zero‐Knowledge Protocols](https://www.mimuw.edu.pl/~std/Dydaktyka/BISS09/BISS10.pdf) |                                                              | 03/2009 | Course/Lecture | University of Rome |
 
+### Bulletproof
+
+Specification: [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf), [crypto.stanford.edu - Bulletproofs: Efficient Range Proofs for Confidential Transactions](https://crypto.stanford.edu/~dabo/pubs/abstracts/bulletproofs.html)
+
+| Title                                                        | Description                                                  | Date      | Support        | Author               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | -------------- | -------------------- |
+| [Bulletproofs In Crypto – An introduction to a Non-Interactive ZKP](https://blog.pantherprotocol.io/bulletproofs-in-crypto-an-introduction-to-a-non-interactive-zk-proof/) |                                                              | 09/2022   | Article        | Panther team         |
+| [What Are Bulletproofs? Guide to Confidential Cryptocurrency Transactions](https://blockonomi.com/bullet-proofs/) | Bulletproofs are an important innovation of zero-knowledge proofs &  other protocols used to secure and obfuscate cryptocurrency transactions | 10/2023   | Article        | blockonomi           |
+| [Learning about Bulletproofs](https://tlu.tarilabs.com/learning-paths/bulletproofs) | Learning path                                                | 2018-2019 | Article        | Tari Labs University |
+| [github.com/dalek-cryptography/bulletproofs](https://github.com/dalek-cryptography/bulletproofs) | Bulletproofs implementation                                  | 2019      | Github project | dalek-cryptography   |
+
 ## Security
 
 | Title                                                        | Description | Date    | Support | Author                                                       |

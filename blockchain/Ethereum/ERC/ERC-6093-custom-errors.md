@@ -12,12 +12,3 @@ https://eips.ethereum.org/EIPS/eip-6093
 |                                                              |                   |           |                |              |
 
 
-
-## Specific
-
-| Title | Description | Date | Support | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |
-|       |             |      |         |        |

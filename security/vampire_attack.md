@@ -1,5 +1,7 @@
 # Vampire attack
 
+[TOC]
+
 # General
 
 | Title                                                        | Description | Date    | Support | Author |
