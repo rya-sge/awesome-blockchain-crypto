@@ -20,6 +20,8 @@ Grouping of articles on blockchain and cryptography grouped by topic
 - [ERC-6093 custom errors](./blockchain/Ethereum/ERC/ERC-6093-custom-errors.md)
 - [ERC-7201 - Namespaced Storage Layout](./blockchain/Ethereum/ERC/ERC-7201-Namespaced Storage Layout.md)
 
+
+
 #### Layer2
 
 - [rollup](./blockchain/Ethereum/layer2/rollups.md)
@@ -53,14 +55,14 @@ Grouping of articles on blockchain and cryptography grouped by topic
 
 ## Defi
 
-- [Lido](./DeFi/lido.md)
-- [Rebase token](./DeFi/rebase-token.md)
-- [Restaking](./DeFi/restaking.md)
+- [Lido](./defi/lido.md)
+- [Rebase token](./defi/rebase-token.md)
+- [Restaking](./defi/restaking.md)
 
 ### Stablecoin
 
-- [Ethena](./Defi/stablecoin/ethena.md)
-- [makerDAO](./Defi/stablecoin/makerDAO.md)
+- [Ethena](./defi/stablecoin/ethena.md)
+- [makerDAO](./defi/stablecoin/makerDAO.md)
 
 ## Infrastructure
 
