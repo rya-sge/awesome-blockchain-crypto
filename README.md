@@ -18,7 +18,7 @@ Grouping of articles on blockchain and cryptography grouped by topic
 - [ERC-2771 meta transactions](./blockchain/Ethereum/ERC/ERC-2771-meta-transaction.md)
 - [ERC-4626 tokenized vault](./blockchain/Ethereum/ERC/ERC-4626-tokenized-vault.md)
 - [ERC-6093 custom errors](./blockchain/Ethereum/ERC/ERC-6093-custom-errors.md)
-- [ERC-7201 - Namespaced Storage Layout](./blockchain/Ethereum/ERC/ERC-7201-Namespaced Storage Layout.md)
+- [ERC-7201 - Namespaced Storage Layout](./blockchain/Ethereum/ERC/ERC-7201-Namespaced-Storage-Layout.md)
 
 #### Layer2
 
