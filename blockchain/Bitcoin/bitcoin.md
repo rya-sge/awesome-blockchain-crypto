@@ -12,15 +12,33 @@
 
 ## Specific
 
+### Andreas Antonopoulos / UNIC
+
 | Title                                                        | Description                                                  | Date    | Support | Author          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | --------------- |
-| [Bitcoin Q&A: SegWit and Transaction Malleability](https://www.youtube.com/watch?v=Vux6o7gSnhE) | What is transaction malleability? Can transaction IDs be changed? How does Segregated Witness make the Lightning Network easier to run? When will we have multi-party channel funding and channel balancing with BOLT 1.1.? Are SegWit transactions seen by old nodes as 'anyone can spend'? Is SegWit enough to improve scalability for mass adoption? Do you think we will get more privacy in the Bitcoin protocol before ossification sets in? | 04/2019 | Video   | aantonop        |
+| [Bitcoin Q&A: SegWit and Transaction Malleability](https://www.youtube.com/watch?v=Vux6o7gSnhE) | What is transaction malleability? Can transaction IDs be changed? How does Segregated Witness make the Lightning Network easier to run?... | 04/2019 | Video   | aantonop        |
 | [Bitcoin Q&A: The Lifecycle of a Transaction](https://www.youtube.com/watch?v=kpnTb6NWih0) | What is the lifecycle of a transaction, from wallet to inclusion in the Bitcoin blockchain? | 04/2019 | Video   | aantonop        |
-| [Why is Block Size 1MB](https://www.youtube.com/watch?v=92AYj_9W7x0) | Short video from MOOC 12, Session 2: Introduction to Digital Currencies, with Andreas Antonopoulos, originally uploaded September 19th, 2019. | 01/2020 | Video   | aantonop / UNIC |
-| [Bitcoin after year 2140](https://www.youtube.com/watch?v=H83ixbTjnlY&feature=youtu.be) | Short video from MOOC12, Session 2: Introduction to Digital Currencies, with Andreas Antonopoulos, originally uploaded September 19th, 2019. | 2020    | Video   | aantonop / UNIC |
-| [Bitcoin Q&A: Multi-signature and distirbuted storage](https://www.youtube.com/watch?si=egWYNxwQb_lUpKbl&v=cAP2u6w_1-k&feature=youtu.be) | What happens when wallets (personal or at an exchange) are hacked? What is "sweeping" with regards to private keys? After a hack, is it possible to track the stolen bitcoin and identify the hacker? How do you keep bitcoin safe in a group / corporate environment? Is it possible to create a multi-signature setup with Trezor and Electrum? Could passphrases be brute-forced? What is happening with browser extension deprecation? You will have to evaluate which tools are the best based on the amount of cryptocurrency you own, your circumstances, and your threat model. | 07/2018 | Video   | aantonop        |
+| [Why is Block Size 1MB](https://www.youtube.com/watch?v=92AYj_9W7x0) | Short video from MOOC 12, Session 2: Introduction to Digital Currencies, with Andreas Antonopoulos, | 01/2020 | Video   | aantonop / UNIC |
+| [Bitcoin after year 2140](https://www.youtube.com/watch?v=H83ixbTjnlY&feature=youtu.be) | Short video from MOOC12, Session 2: Introduction to Digital Currencies, with Andreas Antonopoulos, | 2020    | Video   | aantonop / UNIC |
+| [Bitcoin Q&A: Multi-signature and distirbuted storage](https://www.youtube.com/watch?si=egWYNxwQb_lUpKbl&v=cAP2u6w_1-k&feature=youtu.be) | What happens when wallets are hacked? What is "sweeping" ? is it possible to track the stolen bitcoin and identify ... | 07/2018 | Video   | aantonop        |
 |                                                              |                                                              |         |         |                 |
 |                                                              |                                                              |         |         |                 |
+
+### Account & Address
+
+- [BIP_0032](https://en.bitcoin.it/wiki/BIP_0032)
+- 
+
+| Title                                                        | Description                                                  | Date    | Support | Author        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------- |
+| [Multiple accounts in Trezor Suite](https://trezor.io/learn/a/multiple-accounts-in-trezor-suite) | For each supported cryptocurrency, Trezor Suite allows you to manage multiple account | 2024    | Doc     | trezor        |
+| [Bitcoin addresses and how to use them](https://blog.trezor.io/bitcoin-addresses-and-how-to-use-them-35e7312098ff) | What address type should you use to send and receive Bitcoin? | 11/2020 | Article | SatoshiLabs   |
+| [What is a change address?](https://trezor.io/learn/a/what-is-a-change-address) | A change address is an address to which the remainder of a transaction's inputs are sent after the desired amount has been sent to the recipient. | 2024    | Doc     | Trezor        |
+| [How is a Bitcoin address created?](https://bitbox.swiss/blog/how-is-a-bitcoin-address-created/) | Here's why you only need to backup your seed phrase once.    | 05/2022 | Article | Joko / BitBox |
+
+
+
+
 
 ## Security
 

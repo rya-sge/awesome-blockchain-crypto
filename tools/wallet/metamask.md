@@ -17,7 +17,7 @@ My article: [Access Denied - Deep dive into MetaMask Secrets](https://rya-sge.gi
 | Title                                                        | Description                                                  | Date    | Support | Author       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------ |
 | [Metamask Snaps: Playing in the Sand](https://osec.io/blog/2023-11-01-metamask-snaps) | A deep dig into Metamask Snaps. We explore safety considerations, environment design, and break down a property spoofing vulnerability in the Snaps sandboxing layer. | 11/2023 | Article | OtterSec     |
-| [Metamask improves token approval UX](https://blog.nftx.io/metamask-improves-token-approval-ux/) | Metamask makes ongoing changes to the way in which the wallet works, providing more insight to users so they can make informed choices. This article looks at the latest updates. | 03/2023 | Article | Javery /nftx |
+| [Metamask improves token approval UX](https://blog.nftx.io/metamask-improves-token-approval-ux/) | Metamask makes ongoing changes to the way in which the wallet works, providing.This article looks at the latest updates. | 03/2023 | Article | Javery /nftx |
 | [Metamask diagram](https://raw.githubusercontent.com/htekdev/architecture-diagrams/main/.artifacts/BlockChain-Wallets-Overview.png)<br />[github.com/htekdev/architecture-diagrams](https://github.com/htekdev/architecture-diagrams) | Metamask architecture design                                 |         | Diagram | htekdev      |
 |                                                              |                                                              |         |         |              |
 

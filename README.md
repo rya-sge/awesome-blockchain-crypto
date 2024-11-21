@@ -20,8 +20,6 @@ Grouping of articles on blockchain and cryptography grouped by topic
 - [ERC-6093 custom errors](./blockchain/Ethereum/ERC/ERC-6093-custom-errors.md)
 - [ERC-7201 - Namespaced Storage Layout](./blockchain/Ethereum/ERC/ERC-7201-Namespaced Storage Layout.md)
 
-
-
 #### Layer2
 
 - [rollup](./blockchain/Ethereum/layer2/rollups.md)
@@ -58,6 +56,16 @@ Grouping of articles on blockchain and cryptography grouped by topic
 - [Lido](./defi/lido.md)
 - [Rebase token](./defi/rebase-token.md)
 - [Restaking](./defi/restaking.md)
+
+### Protocol
+
+- [Balancer](./Defi/protocol/balancer.md)
+- [Compound](./Defi/protocol/compound.md)
+
+- [CoW](./Defi/protocol/cow-protocol.md)
+- [Curve](./Defi/protocol/curve.md)
+- [EigenLayer](./Defi/protocol/EigenLayer.md)
+- [UniSwap](./Defi/protocol/Uniswap.md)
 
 ### Stablecoin
 
@@ -97,6 +105,8 @@ Grouping of articles on blockchain and cryptography grouped by topic
 - [Metamask](./tools/wallet/metamask.md)
 
 - [Trezor](./tools/wallet/trezor.md)
+
+  
 
 ## Cryptography
 

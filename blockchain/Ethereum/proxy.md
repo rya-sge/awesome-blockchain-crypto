@@ -72,13 +72,14 @@ Relevant ERC:
 
 ## Diamond proxy pattern
 
-| Title                                                        | Description | Date             | Support        | Author            |
-| ------------------------------------------------------------ | ----------- | ---------------- | -------------- | ----------------- |
-| [The Diamond Proxy Pattern Explained:  What You Need To Know (Advanced Proxy Pattern](https://www.youtube.com/watch?v=IoWe6VIctJQ) | -           | January 19, 2023 | Video          | Jesper Kristensen |
-| [How To Implement The Diamond Standard](https://medium.com/@MarqyMarq/how-to-implement-the-diamond-standard-69e87dae44e6) | -           | 02/2023          | Article        | Marq              |
-| [ERC20-Diamond-Proxy](https://github.com/KevinH2810/ERC20-Diamond-Proxy) | -           | 2023             | GitHub project | KevinH2810        |
-| [Understanding delegatecall And How to Use It Safely](https://eip2535diamonds.substack.com/p/understanding-delegatecall-and-how) | -           | 07/2021          | Article        | Nick Mudge        |
-| [The Diamond Proxy simply explained](https://twitter.com/CharlesWangP/status/1762915168558690549?t=_Y4rPZO0ewl-bxcEEUzt8w&s=35) | -           | 02/2024          | Tweet          | Charles Wang      |
+| Title                                                        | Description                                                  | Date             | Support        | Author                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | -------------- | -------------------------------------------------------- |
+| [The Diamond Proxy Pattern Explained:  What You Need To Know (Advanced Proxy Pattern](https://www.youtube.com/watch?v=IoWe6VIctJQ) | -                                                            | January 19, 2023 | Video          | Jesper Kristensen                                        |
+| [How To Implement The Diamond Standard](https://medium.com/@MarqyMarq/how-to-implement-the-diamond-standard-69e87dae44e6) | -                                                            | 02/2023          | Article        | Marq                                                     |
+| [ERC20-Diamond-Proxy](https://github.com/KevinH2810/ERC20-Diamond-Proxy) | -                                                            | 2023             | GitHub project | KevinH2810                                               |
+| [Understanding delegatecall And How to Use It Safely](https://eip2535diamonds.substack.com/p/understanding-delegatecall-and-how) | -                                                            | 07/2021          | Article        | Nick Mudge                                               |
+| [The Diamond Proxy simply explained](https://twitter.com/CharlesWangP/status/1762915168558690549?t=_Y4rPZO0ewl-bxcEEUzt8w&s=35) | -                                                            | 02/2024          | Tweet          | Charles Wang                                             |
+| [A Comparative Gas Cost Analysis of Proxy and Diamond Patterns in EVM Blockchains for Trusted Smart Contract Engineering](https://arxiv.org/pdf/2312.08945v2) | comparative analysis of gas costs for both patterns in contrast to a traditional non-upgradeable smart contract | 05/2024          | arxiv          | Anto Benedetti, Tiphaine Henry1, Sara Tucci-Piergiovanni |
 
 ## Beacon Proxy
 
