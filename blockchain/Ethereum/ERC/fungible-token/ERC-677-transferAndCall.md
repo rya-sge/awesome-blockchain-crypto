@@ -1,6 +1,6 @@
 # ERC-677
 
-[https://github.com/ethereum/EIPs/issues/677](https://github.com/ethereum/EIPs/issues/677)
+[ERC specification](https://github.com/ethereum/EIPs/issues/677)
 
 ## General
 

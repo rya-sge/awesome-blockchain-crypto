@@ -2,6 +2,8 @@
 
 [TOC]
 
+See also my articles: [Main Concept Behind Zero-Knowledge Proof](https://rya-sge.github.io/access-denied/2024/06/17/zero-knowledge-proof-main-concepts/), [Overview of Zero-Knowledge development framework](https://rya-sge.github.io/access-denied/2024/06/10/zero-knowledge-development-framework/)
+
 ## General
 
 | Title                                                        | Description                                                  | Date    | Support | Author                        |
@@ -26,6 +28,8 @@
 
 Specification: [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf), [crypto.stanford.edu - Bulletproofs: Efficient Range Proofs for Confidential Transactions](https://crypto.stanford.edu/~dabo/pubs/abstracts/bulletproofs.html)
 
+See also my article [Zero Knowledge Proofs with Bulletproof](https://rya-sge.github.io/access-denied/2024/08/13/bulletproof-zero-knowledge-proof/)
+
 | Title                                                        | Description                                                  | Date      | Support        | Author               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | -------------- | -------------------- |
 | [Bulletproofs In Crypto – An introduction to a Non-Interactive ZKP](https://blog.pantherprotocol.io/bulletproofs-in-crypto-an-introduction-to-a-non-interactive-zk-proof/) |                                                              | 09/2022   | Article        | Panther team         |
@@ -35,7 +39,7 @@ Specification: [Bulletproofs: Short Proofs for Confidential Transactions and Mor
 
 ## Security
 
-| Title                                                        | Description | Date    | Support | Author                                                       |
-| ------------------------------------------------------------ | ----------- | ------- | ------- | ------------------------------------------------------------ |
-| [Fiat-Shamir Exploit to Attack a Plonk Verifier](https://medium.com/@cryptofairy/fiat-shamir-exploit-to-attack-a-plonk-verifier-d8ab544e9536) |             | 12/2023 | Article | [Crypto Fairy](https://medium.com/@cryptofairy?source=post_page-----d8ab544e9536--------------------------------) |
-|                                                              |             |         |         |                                                              |
+| Title                                                        | Description                                                  | Date    | Support | Author                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
+| [Fiat-Shamir Exploit to Attack a Plonk Verifier](https://medium.com/@cryptofairy/fiat-shamir-exploit-to-attack-a-plonk-verifier-d8ab544e9536) | This experiment was inspired by a recent YouTube [publication](https://www.youtube.com/watch?v=Sk-S8-n6Jo4) from the OpenZeppelin team titled “The Last Challenge Attack”, which focused on an incorrectly implemented Plonk verifier. | 12/2023 | Article | [Crypto Fairy](https://medium.com/@cryptofairy?source=post_page-----d8ab544e9536--------------------------------) |
+|                                                              |                                                              |         |         |                                                              |

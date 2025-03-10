@@ -1,6 +1,6 @@
 # ERC-20
 
-
+[EIP specification](https://eips.ethereum.org/EIPS/eip-20)
 
 ## General
 

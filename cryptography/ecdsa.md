@@ -15,7 +15,7 @@
 
 | Title                                                        | Description | Date | Support | Author       |
 | ------------------------------------------------------------ | ----------- | ---- | ------- | ------------ |
-| [Signature-related Attacks](https://scsfg.io/hackers/signature-attacks/#signature-related-attacks)](https://scsfg.io/hackers/signature-attacks/) | scsfg.io    | -    | Article | Dominik Muhs |
+| [Signature-related Attacks](https://scsfg.io/hackers/signature-attacks/#signature-related-attacks) | scsfg.io    | -    | Article | Dominik Muhs |
 |                                                              |             |      |         |              |
 |                                                              |             |      |         |              |
 |                                                              |             |      |         |              |
@@ -28,8 +28,6 @@
 
 
 ## Other
-
-
 
 | Title                                                        | Description                                                  | Date | Support | Author     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------- | ---------- |

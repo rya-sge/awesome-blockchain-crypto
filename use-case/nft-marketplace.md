@@ -10,9 +10,10 @@
 |                                                              |                                                              |         |         |                                                              |
 |                                                              |                                                              |         |         |                                                              |
 
-## Projet
+## Security
 
-| Title | Description | Date | Company | Author |
-| ----- | ----------- | ---- | ------- | ------ |
-|       |             |      |         |        |
+| Title                                                        | Description                                                  | Date    | Company        | Author                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | -------------- | ------------------------------------------------------------ |
+| [NFT Wash Trading: Quantifying suspicious behaviour in NFT markets](https://arxiv.org/abs/2202.03866) | The smart contract-based markets for non-fungible tokens (NFTs) on the Ethereum blockchain have seen tremendous growth in 2021, with trading volumes peaking at 3.5b in September 2021. This dramatic surge has led to industry observers questioning the authenticity of on-chain volumes, given the absence of identity requirements and the ease with which agents can control multiple addresses. We examine potentially illicit trading patterns in the NFT markets from January 2018 to mid-November 2021, gathering data from the 52 largest collections by volume. | 2022    | research paper | University of Copenhagen,  eToroX Labs, University of Vienna |
+| [Understanding Security Issues in the NFT Ecosystem](https://dl.acm.org/doi/abs/10.1145/3548606.3559342) | In this paper, we first present a systematic overview of how the NFT ecosystem works, and we identify three major actors: marketplaces, external entities, and users. We then perform an in-depth analysis of the top 8 marketplaces (ranked by transaction volume) to discover potential issues, | 11/2022 | research paper | University of California                                     |
 
